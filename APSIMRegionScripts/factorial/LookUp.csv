@@ -1,0 +1,2224 @@
+point_id,lat,lon,rams_row,rams_col,climateDiv,state,soil_code,sow_start
+   0,42,-95,4,4,Central,IA, 399790,5-May
+   1,42,-95,4,4,Central,IA, 399790,5-May
+   2,42,-95,4,4,Central,IA, 399860,5-May
+   3,42,-95,4,4,Central,IA, 402785,5-May
+   4,42,-95,4,4,Central,IA, 403564,5-May
+   5,42,-95,4,4,Central,IA, 403564,5-May
+   6,42,-95,4,4,Central,IA, 403564,5-May
+   7,42,-95,4,4,Central,IA, 403564,5-May
+   8,42,-95,4,4,Central,IA, 403564,5-May
+   9,42,-95,4,4,Central,IA, 403564,5-May
+  10,42,-95,4,4,Central,IA, 403564,5-May
+  11,42,-95,4,4,Central,IA, 403564,5-May
+  12,42,-95,4,4,Central,IA, 403564,5-May
+  13,42,-95,4,4,Central,IA, 403564,5-May
+  14,42,-95,4,4,Central,IA, 403564,5-May
+  15,42,-95,4,4,Central,IA, 403564,5-May
+  16,42,-95,4,4,Central,IA, 403564,5-May
+  17,42,-95,4,4,Central,IA, 403564,5-May
+  18,42,-95,4,4,Central,IA, 403564,5-May
+  19,42,-95,4,4,Central,IA, 403564,5-May
+  20,42,-95,4,4,Central,IA, 403564,5-May
+  21,42,-95,4,4,Central,IA, 403564,5-May
+  22,42,-95,4,4,Central,IA, 403564,5-May
+  23,42,-95,4,4,Central,IA, 403565,5-May
+  24,42,-95,4,4,Central,IA, 403565,5-May
+  25,42,-95,4,4,Central,IA, 403565,5-May
+  26,42,-95,4,4,Central,IA, 403565,5-May
+  27,42,-95,4,4,Central,IA, 403565,5-May
+  28,42,-95,4,4,Central,IA, 403565,5-May
+  29,42,-95,4,4,Central,IA, 403565,5-May
+  30,42,-95,4,4,Central,IA, 403565,5-May
+  31,42,-95,4,4,Central,IA, 403565,5-May
+  32,42,-95,4,4,Central,IA, 403565,5-May
+  33,42,-95,4,4,Central,IA, 403565,5-May
+  34,42,-95,4,4,Central,IA, 403565,5-May
+  35,42,-95,4,4,Central,IA, 403565,5-May
+  36,42,-95,4,4,Central,IA, 403565,5-May
+  37,42,-95,4,4,Central,IA, 403565,5-May
+  38,42,-95,4,4,Central,IA, 403565,5-May
+  39,42,-95,4,4,Central,IA, 403565,5-May
+  40,42,-95,4,4,Central,IA, 403565,5-May
+  41,42,-95,4,4,Central,IA, 403565,5-May
+  42,42,-95,4,4,Central,IA, 403565,5-May
+  43,42,-95,4,4,Central,IA, 403565,5-May
+  44,42,-95,4,4,Central,IA, 403565,5-May
+  45,42,-95,4,4,Central,IA, 403565,5-May
+  46,42,-95,4,4,Central,IA, 403565,5-May
+  47,42,-95,4,4,Central,IA, 403565,5-May
+  48,42,-95,4,4,Central,IA, 403565,5-May
+  49,42,-95,4,4,Central,IA, 403565,5-May
+  50,42,-95,4,4,Central,IA, 403566,5-May
+  51,42,-95,4,4,Central,IA, 403566,5-May
+  52,42,-95,4,4,Central,IA, 403566,5-May
+  53,42,-95,4,4,Central,IA, 403566,5-May
+  54,42,-95,4,4,Central,IA, 403566,5-May
+  55,42,-95,4,4,Central,IA, 403566,5-May
+  56,42,-95,4,4,Central,IA, 403566,5-May
+  57,42,-95,4,4,Central,IA, 403566,5-May
+  58,42,-95,4,4,Central,IA, 403566,5-May
+  59,42,-95,4,4,Central,IA, 403566,5-May
+  60,42,-95,4,4,Central,IA, 403566,5-May
+  61,42,-95,4,4,Central,IA, 403566,5-May
+  62,42,-95,4,4,Central,IA, 403566,5-May
+  63,42,-95,4,4,Central,IA, 403566,5-May
+  64,42,-95,4,4,Central,IA, 403566,5-May
+  65,42,-95,4,4,Central,IA, 403566,5-May
+  66,42,-95,4,4,Central,IA, 403567,5-May
+  67,42,-95,4,4,Central,IA, 403567,5-May
+  68,42,-95,4,4,Central,IA, 403567,5-May
+  69,42,-95,4,4,Central,IA, 403567,5-May
+  70,42,-95,4,4,Central,IA, 403567,5-May
+  71,42,-95,4,4,Central,IA, 403567,5-May
+  72,42,-95,4,4,Central,IA, 403567,5-May
+  73,42,-95,4,4,Central,IA, 403568,5-May
+  74,42,-95,4,4,Central,IA, 403568,5-May
+  75,42,-95,4,4,Central,IA, 403568,5-May
+  76,42,-95,4,4,Central,IA, 403568,5-May
+  77,42,-95,4,4,Central,IA, 403568,5-May
+  78,42,-95,4,4,Central,IA, 403568,5-May
+  79,42,-95,4,4,Central,IA, 403568,5-May
+  80,42,-95,4,4,Central,IA, 403568,5-May
+  81,42,-95,4,4,Central,IA, 403568,5-May
+  82,42,-95,4,4,Central,IA, 403568,5-May
+  83,42,-95,4,4,Central,IA, 403568,5-May
+  84,42,-95,4,4,Central,IA, 403568,5-May
+  85,42,-95,4,4,Central,IA, 403568,5-May
+  86,42,-95,4,4,Central,IA, 403568,5-May
+  87,42,-95,4,4,Central,IA, 403568,5-May
+  88,42,-95,4,4,Central,IA, 403568,5-May
+  89,42,-95,4,4,Central,IA, 403568,5-May
+  90,42,-95,4,4,Central,IA, 403568,5-May
+  91,42,-95,4,4,Central,IA, 403568,5-May
+  92,42,-95,4,4,Central,IA, 403568,5-May
+  93,42,-95,4,4,Central,IA, 403568,5-May
+  94,42,-95,4,4,Central,IA, 403568,5-May
+  95,42,-95,4,4,Central,IA, 403568,5-May
+  96,42,-95,4,4,Central,IA, 403568,5-May
+  97,42,-95,4,4,Central,IA, 403568,5-May
+  98,42,-95,4,4,Central,IA, 403568,5-May
+  99,42,-95,4,4,Central,IA, 403568,5-May
+ 100,42,-95,4,4,Central,IA, 403568,5-May
+ 101,42,-95,4,4,Central,IA, 403568,5-May
+ 102,42,-95,4,4,Central,IA, 403568,5-May
+ 103,42,-95,4,4,Central,IA, 403568,5-May
+ 104,42,-95,4,4,Central,IA, 403568,5-May
+ 105,42,-95,4,4,Central,IA, 403568,5-May
+ 106,42,-95,4,4,Central,IA, 403568,5-May
+ 107,42,-95,4,4,Central,IA, 403568,5-May
+ 108,42,-95,4,4,Central,IA, 403568,5-May
+ 109,42,-95,4,4,Central,IA, 403569,5-May
+ 110,42,-95,4,4,Central,IA, 403569,5-May
+ 111,42,-95,4,4,Central,IA, 403569,5-May
+ 112,42,-95,4,4,Central,IA, 403569,5-May
+ 113,42,-95,4,4,Central,IA, 403569,5-May
+ 114,42,-95,4,4,Central,IA, 403569,5-May
+ 115,42,-95,4,4,Central,IA, 403569,5-May
+ 116,42,-95,4,4,Central,IA, 403569,5-May
+ 117,42,-95,4,4,Central,IA, 403569,5-May
+ 118,42,-95,4,4,Central,IA, 403569,5-May
+ 119,42,-95,4,4,Central,IA, 403569,5-May
+ 120,42,-95,4,4,Central,IA, 403569,5-May
+ 121,42,-95,4,4,Central,IA, 403569,5-May
+ 122,42,-95,4,4,Central,IA, 403569,5-May
+ 123,42,-95,4,4,Central,IA, 403569,5-May
+ 124,42,-95,4,4,Central,IA, 403569,5-May
+ 125,42,-95,4,4,Central,IA, 403569,5-May
+ 126,42,-95,4,4,Central,IA, 403569,5-May
+ 127,42,-95,4,4,Central,IA, 403569,5-May
+ 128,42,-95,4,4,Central,IA, 403569,5-May
+ 129,42,-95,4,4,Central,IA, 403569,5-May
+ 130,42,-95,4,4,Central,IA, 403569,5-May
+ 131,42,-95,4,4,Central,IA, 403569,5-May
+ 132,42,-95,4,4,Central,IA, 403569,5-May
+ 133,42,-95,4,4,Central,IA, 403569,5-May
+ 134,42,-95,4,4,Central,IA, 403569,5-May
+ 135,42,-95,4,4,Central,IA, 403569,5-May
+ 136,42,-95,4,4,Central,IA, 403569,5-May
+ 137,42,-95,4,4,Central,IA, 403569,5-May
+ 138,42,-95,4,4,Central,IA, 403569,5-May
+ 139,42,-95,4,4,Central,IA, 403569,5-May
+ 140,42,-95,4,4,Central,IA, 403570,5-May
+ 141,42,-95,4,4,Central,IA, 403570,5-May
+ 142,42,-95,4,4,Central,IA, 403570,5-May
+ 143,42,-95,4,4,Central,IA, 403570,5-May
+ 144,42,-95,4,4,Central,IA, 403570,5-May
+ 145,42,-95,4,4,Central,IA, 403570,5-May
+ 146,42,-95,4,4,Central,IA, 403570,5-May
+ 147,42,-95,4,4,Central,IA, 403570,5-May
+ 148,42,-95,4,4,Central,IA, 403570,5-May
+ 149,42,-95,4,4,Central,IA, 403570,5-May
+ 150,42,-95,4,4,Central,IA, 403570,5-May
+ 151,42,-95,4,4,Central,IA, 403570,5-May
+ 152,42,-95,4,4,Central,IA, 403570,5-May
+ 153,42,-95,4,4,Central,IA, 403570,5-May
+ 154,42,-95,4,4,Central,IA, 403570,5-May
+ 155,42,-95,4,4,Central,IA, 403570,5-May
+ 156,42,-95,4,4,Central,IA, 403570,5-May
+ 157,42,-95,4,4,Central,IA, 403570,5-May
+ 158,42,-95,4,4,Central,IA, 403570,5-May
+ 159,42,-95,4,4,Central,IA, 403570,5-May
+ 160,42,-95,4,4,Central,IA, 403570,5-May
+ 161,42,-95,4,4,Central,IA, 403570,5-May
+ 162,42,-95,4,4,Central,IA, 403571,5-May
+ 163,42,-95,4,4,Central,IA, 403571,5-May
+ 164,42,-95,4,4,Central,IA, 403571,5-May
+ 165,42,-95,4,4,Central,IA, 403571,5-May
+ 166,42,-95,4,4,Central,IA, 403571,5-May
+ 167,42,-95,4,4,Central,IA, 403571,5-May
+ 168,42,-95,4,4,Central,IA, 403571,5-May
+ 169,42,-95,4,4,Central,IA, 403571,5-May
+ 170,42,-95,4,4,Central,IA, 403571,5-May
+ 171,42,-95,4,4,Central,IA, 403571,5-May
+ 172,42,-95,4,4,Central,IA, 403571,5-May
+ 173,42,-95,4,4,Central,IA, 403571,5-May
+ 174,42,-95,4,4,Central,IA, 403571,5-May
+ 175,42,-95,4,4,Central,IA, 403571,5-May
+ 176,42,-95,4,4,Central,IA, 403571,5-May
+ 177,42,-95,4,4,Central,IA, 403571,5-May
+ 178,42,-95,4,4,Central,IA, 403572,5-May
+ 179,42,-95,4,4,Central,IA, 403572,5-May
+ 180,42,-95,4,4,Central,IA, 403572,5-May
+ 181,42,-95,4,4,Central,IA, 403572,5-May
+ 182,42,-95,4,4,Central,IA, 403572,5-May
+ 183,42,-95,4,4,Central,IA, 403572,5-May
+ 184,42,-95,4,4,Central,IA, 403572,5-May
+ 185,42,-95,4,4,Central,IA, 403572,5-May
+ 186,42,-95,4,4,Central,IA, 403572,5-May
+ 187,42,-95,4,4,Central,IA, 403572,5-May
+ 188,42,-95,4,4,Central,IA, 403572,5-May
+ 189,42,-95,4,4,Central,IA, 403572,5-May
+ 190,42,-95,4,4,Central,IA, 403572,5-May
+ 191,42,-95,4,4,Central,IA, 403572,5-May
+ 192,42,-95,4,4,Central,IA, 403572,5-May
+ 193,42,-95,4,4,Central,IA, 403572,5-May
+ 194,42,-95,4,4,Central,IA, 403572,5-May
+ 195,42,-95,4,4,Central,IA, 403572,5-May
+ 196,42,-95,4,4,Central,IA, 403572,5-May
+ 197,42,-95,4,4,Central,IA, 403572,5-May
+ 198,42,-95,4,4,Central,IA, 403572,5-May
+ 199,42,-95,4,4,Central,IA, 403572,5-May
+ 200,42,-95,4,4,Central,IA, 403572,5-May
+ 201,42,-95,4,4,Central,IA, 403572,5-May
+ 202,42,-95,4,4,Central,IA, 403572,5-May
+ 203,42,-95,4,4,Central,IA, 403572,5-May
+ 204,42,-95,4,4,Central,IA, 403572,5-May
+ 205,42,-95,4,4,Central,IA, 403572,5-May
+ 206,42,-95,4,4,Central,IA, 403573,5-May
+ 207,42,-95,4,4,Central,IA, 403573,5-May
+ 208,42,-95,4,4,Central,IA, 403573,5-May
+ 209,42,-95,4,4,Central,IA, 403573,5-May
+ 210,42,-95,4,4,Central,IA, 403573,5-May
+ 211,42,-95,4,4,Central,IA, 403573,5-May
+ 212,42,-95,4,4,Central,IA, 403573,5-May
+ 213,42,-95,4,4,Central,IA, 403573,5-May
+ 214,42,-95,4,4,Central,IA, 403573,5-May
+ 215,42,-95,4,4,Central,IA, 403573,5-May
+ 216,42,-95,4,4,Central,IA, 403573,5-May
+ 217,42,-95,4,4,Central,IA, 403573,5-May
+ 218,42,-95,4,4,Central,IA, 403573,5-May
+ 219,42,-95,4,4,Central,IA, 403573,5-May
+ 220,42,-95,4,4,Central,IA, 403573,5-May
+ 221,42,-95,4,4,Central,IA, 403573,5-May
+ 222,42,-95,4,4,Central,IA, 403573,5-May
+ 223,42,-95,4,4,Central,IA, 403573,5-May
+ 224,42,-95,4,4,Central,IA, 403573,5-May
+ 225,42,-95,4,4,Central,IA, 403573,5-May
+ 226,42,-95,4,4,Central,IA, 402786,5-May
+ 227,42,-95,4,4,Central,IA, 403574,5-May
+ 228,42,-95,4,4,Central,IA, 403574,5-May
+ 229,42,-95,4,4,Central,IA, 403574,5-May
+ 230,42,-95,4,4,Central,IA, 403574,5-May
+ 231,42,-95,4,4,Central,IA, 403574,5-May
+ 232,42,-95,4,4,Central,IA, 403574,5-May
+ 233,42,-95,4,4,Central,IA, 403574,5-May
+ 234,42,-95,4,4,Central,IA, 403574,5-May
+ 235,42,-95,4,4,Central,IA, 403574,5-May
+ 236,42,-95,4,4,Central,IA, 403574,5-May
+ 237,42,-95,4,4,Central,IA, 403574,5-May
+ 238,42,-95,4,4,Central,IA, 403574,5-May
+ 239,42,-95,4,4,Central,IA, 403574,5-May
+ 240,42,-95,4,4,Central,IA, 403574,5-May
+ 241,42,-95,4,4,Central,IA, 403574,5-May
+ 242,42,-95,4,4,Central,IA, 403574,5-May
+ 243,42,-95,4,4,Central,IA, 403574,5-May
+ 244,42,-95,4,4,Central,IA, 403574,5-May
+ 245,42,-95,4,4,Central,IA, 403574,5-May
+ 246,42,-95,4,4,Central,IA, 403574,5-May
+ 247,42,-95,4,4,Central,IA, 403574,5-May
+ 248,42,-95,4,4,Central,IA, 403574,5-May
+ 249,42,-95,4,4,Central,IA, 403574,5-May
+ 250,42,-95,4,4,Central,IA, 403574,5-May
+ 251,42,-95,4,4,Central,IA, 403574,5-May
+ 252,42,-95,4,4,Central,IA, 403574,5-May
+ 253,42,-95,4,4,Central,IA, 403574,5-May
+ 254,42,-95,4,4,Central,IA, 403574,5-May
+ 255,42,-95,4,4,Central,IA, 403574,5-May
+ 256,42,-95,4,4,Central,IA, 403574,5-May
+ 257,42,-95,4,4,Central,IA, 403575,5-May
+ 258,42,-95,4,4,Central,IA, 403575,5-May
+ 259,42,-95,4,4,Central,IA, 403575,5-May
+ 260,42,-95,4,4,Central,IA, 403575,5-May
+ 261,42,-95,4,4,Central,IA, 403576,5-May
+ 262,42,-95,4,4,Central,IA, 403576,5-May
+ 263,42,-95,4,4,Central,IA, 403576,5-May
+ 264,42,-95,4,4,Central,IA, 403576,5-May
+ 265,42,-95,4,4,Central,IA, 403576,5-May
+ 266,42,-95,4,4,Central,IA, 403577,5-May
+ 267,42,-95,4,4,Central,IA, 403577,5-May
+ 268,42,-95,4,4,Central,IA, 403577,5-May
+ 269,42,-95,4,4,Central,IA, 403577,5-May
+ 270,42,-95,4,4,Central,IA, 403577,5-May
+ 271,42,-95,4,4,Central,IA, 403577,5-May
+ 272,42,-95,4,4,Central,IA, 403577,5-May
+ 273,42,-95,4,4,Central,IA, 403577,5-May
+ 274,42,-95,4,4,Central,IA, 403577,5-May
+ 275,42,-95,4,4,Central,IA, 403577,5-May
+ 276,42,-95,4,4,Central,IA, 403577,5-May
+ 277,42,-95,4,4,Central,IA, 403577,5-May
+ 278,42,-95,4,4,Central,IA, 403577,5-May
+ 279,42,-95,4,4,Central,IA, 403577,5-May
+ 280,42,-95,4,4,Central,IA, 403577,5-May
+ 281,42,-95,4,4,Central,IA, 403577,5-May
+ 282,42,-95,4,4,Central,IA, 403577,5-May
+ 283,42,-95,4,4,Central,IA, 403577,5-May
+ 284,42,-95,4,4,Central,IA, 403577,5-May
+ 285,42,-95,4,4,Central,IA, 403577,5-May
+ 286,42,-95,4,4,Central,IA, 403577,5-May
+ 287,42,-95,4,4,Central,IA, 403577,5-May
+ 288,42,-95,4,4,Central,IA, 403577,5-May
+ 289,42,-95,4,4,Central,IA, 403577,5-May
+ 290,42,-95,4,4,Central,IA, 403577,5-May
+ 291,42,-95,4,4,Central,IA, 403577,5-May
+ 292,42,-95,4,4,Central,IA, 403577,5-May
+ 293,42,-95,4,4,Central,IA, 403577,5-May
+ 294,42,-95,4,4,Central,IA, 403577,5-May
+ 295,42,-95,4,4,Central,IA, 403577,5-May
+ 296,42,-95,4,4,Central,IA, 403577,5-May
+ 297,42,-95,4,4,Central,IA, 403577,5-May
+ 298,42,-95,4,4,Central,IA, 403577,5-May
+ 299,42,-95,4,4,Central,IA, 403577,5-May
+ 300,42,-95,4,4,Central,IA, 403577,5-May
+ 301,42,-95,4,4,Central,IA, 403577,5-May
+ 302,42,-95,4,4,Central,IA, 403577,5-May
+ 303,42,-95,4,4,Central,IA, 403578,5-May
+ 304,42,-95,4,4,Central,IA, 403578,5-May
+ 305,42,-95,4,4,Central,IA, 403578,5-May
+ 306,42,-95,4,4,Central,IA, 403578,5-May
+ 307,42,-95,4,4,Central,IA, 403578,5-May
+ 308,42,-95,4,4,Central,IA, 403578,5-May
+ 309,42,-95,4,4,Central,IA, 403578,5-May
+ 310,42,-95,4,4,Central,IA, 403578,5-May
+ 311,42,-95,4,4,Central,IA, 403578,5-May
+ 312,42,-95,4,4,Central,IA, 403578,5-May
+ 313,42,-95,4,4,Central,IA, 403578,5-May
+ 314,42,-95,4,4,Central,IA, 403578,5-May
+ 315,42,-95,4,4,Central,IA, 403578,5-May
+ 316,42,-95,4,4,Central,IA, 403578,5-May
+ 317,42,-95,4,4,Central,IA, 403578,5-May
+ 318,42,-95,4,4,Central,IA, 403578,5-May
+ 319,42,-95,4,4,Central,IA, 403578,5-May
+ 320,42,-95,4,4,Central,IA, 403578,5-May
+ 321,42,-95,4,4,Central,IA, 403578,5-May
+ 322,42,-95,4,4,Central,IA, 403578,5-May
+ 323,42,-95,4,4,Central,IA, 403578,5-May
+ 324,42,-95,4,4,Central,IA, 403578,5-May
+ 325,42,-95,4,4,Central,IA, 403578,5-May
+ 326,42,-95,4,4,Central,IA, 403578,5-May
+ 327,42,-95,4,4,Central,IA, 403578,5-May
+ 328,42,-95,4,4,Central,IA, 403578,5-May
+ 329,42,-95,4,4,Central,IA, 403578,5-May
+ 330,42,-95,4,4,Central,IA, 403578,5-May
+ 331,42,-95,4,4,Central,IA, 403578,5-May
+ 332,42,-95,4,4,Central,IA, 403578,5-May
+ 333,42,-95,4,4,Central,IA, 403578,5-May
+ 334,42,-95,4,4,Central,IA, 403578,5-May
+ 335,42,-95,4,4,Central,IA, 403578,5-May
+ 336,42,-95,4,4,Central,IA, 403578,5-May
+ 337,42,-95,4,4,Central,IA, 403578,5-May
+ 338,42,-95,4,4,Central,IA, 403578,5-May
+ 339,42,-95,4,4,Central,IA, 403578,5-May
+ 340,42,-95,4,4,Central,IA, 403578,5-May
+ 341,42,-95,4,4,Central,IA, 403578,5-May
+ 342,42,-95,4,4,Central,IA, 403578,5-May
+ 343,42,-95,4,4,Central,IA, 403579,5-May
+ 344,42,-95,4,4,Central,IA, 403579,5-May
+ 345,42,-95,4,4,Central,IA, 403579,5-May
+ 346,42,-95,4,4,Central,IA, 403579,5-May
+ 347,42,-95,4,4,Central,IA, 403579,5-May
+ 348,42,-95,4,4,Central,IA, 403579,5-May
+ 349,42,-95,4,4,Central,IA, 403579,5-May
+ 350,42,-95,4,4,Central,IA, 403579,5-May
+ 351,42,-95,4,4,Central,IA, 403579,5-May
+ 352,42,-95,4,4,Central,IA, 403579,5-May
+ 353,42,-95,4,4,Central,IA, 403579,5-May
+ 354,42,-95,4,4,Central,IA, 403579,5-May
+ 355,42,-95,4,4,Central,IA, 403579,5-May
+ 356,42,-95,4,4,Central,IA, 403579,5-May
+ 357,42,-95,4,4,Central,IA, 403579,5-May
+ 358,42,-95,4,4,Central,IA, 403579,5-May
+ 359,42,-95,4,4,Central,IA, 403579,5-May
+ 360,42,-95,4,4,Central,IA, 403579,5-May
+ 361,42,-95,4,4,Central,IA, 403579,5-May
+ 362,42,-95,4,4,Central,IA, 403579,5-May
+ 363,42,-95,4,4,Central,IA, 403579,5-May
+ 364,42,-95,4,4,Central,IA, 403579,5-May
+ 365,42,-95,4,4,Central,IA, 403579,5-May
+ 366,42,-95,4,4,Central,IA, 403579,5-May
+ 367,42,-95,4,4,Central,IA, 403579,5-May
+ 368,42,-95,4,4,Central,IA, 403580,5-May
+ 369,42,-95,4,4,Central,IA, 403580,5-May
+ 370,42,-95,4,4,Central,IA, 403580,5-May
+ 371,42,-95,4,4,Central,IA, 403580,5-May
+ 372,42,-95,4,4,Central,IA, 403580,5-May
+ 373,42,-95,4,4,Central,IA, 403580,5-May
+ 374,42,-95,4,4,Central,IA, 403580,5-May
+ 375,42,-95,4,4,Central,IA, 403580,5-May
+ 376,42,-95,4,4,Central,IA, 403580,5-May
+ 377,42,-95,4,4,Central,IA, 403580,5-May
+ 378,42,-95,4,4,Central,IA, 403580,5-May
+ 379,42,-95,4,4,Central,IA, 403580,5-May
+ 380,42,-95,4,4,Central,IA, 403580,5-May
+ 381,42,-95,4,4,Central,IA, 403580,5-May
+ 382,42,-95,4,4,Central,IA, 403580,5-May
+ 383,42,-95,4,4,Central,IA, 403580,5-May
+ 384,42,-95,4,4,Central,IA, 403580,5-May
+ 385,42,-95,4,4,Central,IA, 403580,5-May
+ 386,42,-95,4,4,Central,IA, 403580,5-May
+ 387,42,-95,4,4,Central,IA, 403580,5-May
+ 388,42,-95,4,4,Central,IA, 403580,5-May
+ 389,42,-95,4,4,Central,IA, 403580,5-May
+ 390,42,-95,4,4,Central,IA, 403580,5-May
+ 391,42,-95,4,4,Central,IA, 403580,5-May
+ 392,42,-95,4,4,Central,IA, 403580,5-May
+ 393,42,-95,4,4,Central,IA, 403580,5-May
+ 394,42,-95,4,4,Central,IA, 403580,5-May
+ 395,42,-95,4,4,Central,IA, 403580,5-May
+ 396,42,-95,4,4,Central,IA, 403580,5-May
+ 397,42,-95,4,4,Central,IA, 403580,5-May
+ 398,42,-95,4,4,Central,IA, 403580,5-May
+ 399,42,-95,4,4,Central,IA, 403580,5-May
+ 400,42,-95,4,4,Central,IA, 403580,5-May
+ 401,42,-95,4,4,Central,IA, 403580,5-May
+ 402,42,-95,4,4,Central,IA, 403580,5-May
+ 403,42,-95,4,4,Central,IA, 403580,5-May
+ 404,42,-95,4,4,Central,IA, 403580,5-May
+ 405,42,-95,4,4,Central,IA, 403580,5-May
+ 406,42,-95,4,4,Central,IA, 403580,5-May
+ 407,42,-95,4,4,Central,IA, 403581,5-May
+ 408,42,-95,4,4,Central,IA, 403581,5-May
+ 409,42,-95,4,4,Central,IA, 403581,5-May
+ 410,42,-95,4,4,Central,IA, 403581,5-May
+ 411,42,-95,4,4,Central,IA, 403581,5-May
+ 412,42,-95,4,4,Central,IA, 403581,5-May
+ 413,42,-95,4,4,Central,IA, 403581,5-May
+ 414,42,-95,4,4,Central,IA, 403581,5-May
+ 415,42,-95,4,4,Central,IA, 403581,5-May
+ 416,42,-95,4,4,Central,IA, 403581,5-May
+ 417,42,-95,4,4,Central,IA, 403581,5-May
+ 418,42,-95,4,4,Central,IA, 403581,5-May
+ 419,42,-95,4,4,Central,IA, 403581,5-May
+ 420,42,-95,4,4,Central,IA, 403581,5-May
+ 421,42,-95,4,4,Central,IA, 403581,5-May
+ 422,42,-95,4,4,Central,IA, 403581,5-May
+ 423,42,-95,4,4,Central,IA, 403581,5-May
+ 424,42,-95,4,4,Central,IA, 403581,5-May
+ 425,42,-95,4,4,Central,IA, 403581,5-May
+ 426,42,-95,4,4,Central,IA, 403581,5-May
+ 427,42,-95,4,4,Central,IA, 403581,5-May
+ 428,42,-95,4,4,Central,IA, 403581,5-May
+ 429,42,-95,4,4,Central,IA, 403581,5-May
+ 430,42,-95,4,4,Central,IA, 403581,5-May
+ 431,42,-95,4,4,Central,IA, 403581,5-May
+ 432,42,-95,4,4,Central,IA, 403581,5-May
+ 433,42,-95,4,4,Central,IA, 403581,5-May
+ 434,42,-95,4,4,Central,IA, 403581,5-May
+ 435,42,-95,4,4,Central,IA, 403581,5-May
+ 436,42,-95,4,4,Central,IA, 403581,5-May
+ 437,42,-95,4,4,Central,IA, 403581,5-May
+ 438,42,-95,4,4,Central,IA, 403581,5-May
+ 439,42,-95,4,4,Central,IA, 403581,5-May
+ 440,42,-95,4,4,Central,IA, 403581,5-May
+ 441,42,-95,4,4,Central,IA, 403581,5-May
+ 442,42,-95,4,4,Central,IA, 403581,5-May
+ 443,42,-95,4,4,Central,IA, 403581,5-May
+ 444,42,-95,4,4,Central,IA, 403581,5-May
+ 445,42,-95,4,4,Central,IA, 403581,5-May
+ 446,42,-95,4,4,Central,IA, 403581,5-May
+ 447,42,-95,4,4,Central,IA, 403581,5-May
+ 448,42,-95,4,4,Central,IA, 403582,5-May
+ 449,42,-95,4,4,Central,IA, 403582,5-May
+ 450,42,-95,4,4,Central,IA, 403582,5-May
+ 451,42,-95,4,4,Central,IA, 403582,5-May
+ 452,42,-95,4,4,Central,IA, 403582,5-May
+ 453,42,-95,4,4,Central,IA, 403582,5-May
+ 454,42,-95,4,4,Central,IA, 403582,5-May
+ 455,42,-95,4,4,Central,IA, 403582,5-May
+ 456,42,-95,4,4,Central,IA, 403582,5-May
+ 457,42,-95,4,4,Central,IA, 403582,5-May
+ 458,42,-95,4,4,Central,IA, 403582,5-May
+ 459,42,-95,4,4,Central,IA, 403582,5-May
+ 460,42,-95,4,4,Central,IA, 403582,5-May
+ 461,42,-95,4,4,Central,IA, 403582,5-May
+ 462,42,-95,4,4,Central,IA, 403582,5-May
+ 463,42,-95,4,4,Central,IA, 403582,5-May
+ 464,42,-95,4,4,Central,IA, 403582,5-May
+ 465,42,-95,4,4,Central,IA, 403582,5-May
+ 466,42,-95,4,4,Central,IA, 403582,5-May
+ 467,42,-95,4,4,Central,IA, 403582,5-May
+ 468,42,-95,4,4,Central,IA, 403582,5-May
+ 469,42,-95,4,4,Central,IA, 403582,5-May
+ 470,42,-95,4,4,Central,IA, 403582,5-May
+ 471,42,-95,4,4,Central,IA, 403582,5-May
+ 472,42,-95,4,4,Central,IA, 403582,5-May
+ 473,42,-95,4,4,Central,IA, 403582,5-May
+ 474,42,-95,4,4,Central,IA, 403582,5-May
+ 475,42,-95,4,4,Central,IA, 403582,5-May
+ 476,42,-95,4,4,Central,IA, 403582,5-May
+ 477,42,-95,4,4,Central,IA, 403582,5-May
+ 478,42,-95,4,4,Central,IA, 403582,5-May
+ 479,42,-95,4,4,Central,IA, 403582,5-May
+ 480,42,-95,4,4,Central,IA, 403582,5-May
+ 481,42,-95,4,4,Central,IA, 403582,5-May
+ 482,42,-95,4,4,Central,IA, 403582,5-May
+ 483,42,-95,4,4,Central,IA, 403583,5-May
+ 484,42,-95,4,4,Central,IA, 403583,5-May
+ 485,42,-95,4,4,Central,IA, 403583,5-May
+ 486,42,-95,4,4,Central,IA, 403583,5-May
+ 487,42,-95,4,4,Central,IA, 403583,5-May
+ 488,42,-95,4,4,Central,IA, 403583,5-May
+ 489,42,-95,4,4,Central,IA, 403583,5-May
+ 490,42,-95,4,4,Central,IA, 403583,5-May
+ 491,42,-95,4,4,Central,IA, 403583,5-May
+ 492,42,-95,4,4,Central,IA, 403583,5-May
+ 493,42,-95,4,4,Central,IA, 403583,5-May
+ 494,42,-95,4,4,Central,IA, 403583,5-May
+ 495,42,-95,4,4,Central,IA, 403583,5-May
+ 496,42,-95,4,4,Central,IA, 403583,5-May
+ 497,42,-95,4,4,Central,IA, 403583,5-May
+ 498,42,-95,4,4,Central,IA, 403583,5-May
+ 499,42,-95,4,4,Central,IA, 403583,5-May
+ 500,42,-95,4,4,Central,IA, 403583,5-May
+ 501,42,-95,4,4,Central,IA, 403583,5-May
+ 502,42,-95,4,4,Central,IA, 403583,5-May
+ 503,42,-95,4,4,Central,IA, 403583,5-May
+ 504,42,-95,4,4,Central,IA, 403583,5-May
+ 505,42,-95,4,4,Central,IA, 403583,5-May
+ 506,42,-95,4,4,Central,IA, 403583,5-May
+ 507,42,-95,4,4,Central,IA, 403583,5-May
+ 508,42,-95,4,4,Central,IA, 403583,5-May
+ 509,42,-95,4,4,Central,IA, 403583,5-May
+ 510,42,-95,4,4,Central,IA, 403583,5-May
+ 511,42,-95,4,4,Central,IA, 403583,5-May
+ 512,42,-95,4,4,Central,IA, 403583,5-May
+ 513,42,-95,4,4,Central,IA, 403583,5-May
+ 514,42,-95,4,4,Central,IA, 403583,5-May
+ 515,42,-95,4,4,Central,IA, 403583,5-May
+ 516,42,-95,4,4,Central,IA, 403583,5-May
+ 517,42,-95,4,4,Central,IA, 403583,5-May
+ 518,42,-95,4,4,Central,IA, 403583,5-May
+ 519,42,-95,4,4,Central,IA, 403583,5-May
+ 520,42,-95,4,4,Central,IA, 403583,5-May
+ 521,42,-95,4,4,Central,IA, 403583,5-May
+ 522,42,-95,4,4,Central,IA, 403583,5-May
+ 523,42,-95,4,4,Central,IA, 403583,5-May
+ 524,42,-95,4,4,Central,IA, 402794,5-May
+ 525,42,-95,4,4,Central,IA, 403584,5-May
+ 526,42,-95,4,4,Central,IA, 403584,5-May
+ 527,42,-95,4,4,Central,IA, 403584,5-May
+ 528,42,-95,4,4,Central,IA, 403584,5-May
+ 529,42,-95,4,4,Central,IA, 403584,5-May
+ 530,42,-95,4,4,Central,IA, 403584,5-May
+ 531,42,-95,4,4,Central,IA, 403584,5-May
+ 532,42,-95,4,4,Central,IA, 403584,5-May
+ 533,42,-95,4,4,Central,IA, 403584,5-May
+ 534,42,-95,4,4,Central,IA, 403584,5-May
+ 535,42,-95,4,4,Central,IA, 403584,5-May
+ 536,42,-95,4,4,Central,IA, 403584,5-May
+ 537,42,-95,4,4,Central,IA, 403584,5-May
+ 538,42,-95,4,4,Central,IA, 403584,5-May
+ 539,42,-95,4,4,Central,IA, 403584,5-May
+ 540,42,-95,4,4,Central,IA, 403584,5-May
+ 541,42,-95,4,4,Central,IA, 403584,5-May
+ 542,42,-95,4,4,Central,IA, 403584,5-May
+ 543,42,-95,4,4,Central,IA, 403584,5-May
+ 544,42,-95,4,4,Central,IA, 403584,5-May
+ 545,42,-95,4,4,Central,IA, 403584,5-May
+ 546,42,-95,4,4,Central,IA, 403584,5-May
+ 547,42,-95,4,4,Central,IA, 403584,5-May
+ 548,42,-95,4,4,Central,IA, 403584,5-May
+ 549,42,-95,4,4,Central,IA, 403584,5-May
+ 550,42,-95,4,4,Central,IA, 403584,5-May
+ 551,42,-95,4,4,Central,IA, 403584,5-May
+ 552,42,-95,4,4,Central,IA, 403584,5-May
+ 553,42,-95,4,4,Central,IA, 403584,5-May
+ 554,42,-95,4,4,Central,IA, 403584,5-May
+ 555,42,-95,4,4,Central,IA, 403584,5-May
+ 556,42,-95,4,4,Central,IA, 403584,5-May
+ 557,42,-95,4,4,Central,IA, 403584,5-May
+ 558,42,-95,4,4,Central,IA, 403584,5-May
+ 559,42,-95,4,4,Central,IA, 403584,5-May
+ 560,42,-95,4,4,Central,IA, 403584,5-May
+ 561,42,-95,4,4,Central,IA, 403584,5-May
+ 562,42,-95,4,4,Central,IA, 403584,5-May
+ 563,42,-95,4,4,Central,IA, 403584,5-May
+ 564,42,-95,4,4,Central,IA, 403584,5-May
+ 565,42,-95,4,4,Central,IA, 403585,5-May
+ 566,42,-95,4,4,Central,IA, 403585,5-May
+ 567,42,-95,4,4,Central,IA, 403585,5-May
+ 568,42,-95,4,4,Central,IA, 403585,5-May
+ 569,42,-95,4,4,Central,IA, 403585,5-May
+ 570,42,-95,4,4,Central,IA, 403585,5-May
+ 571,42,-95,4,4,Central,IA, 403585,5-May
+ 572,42,-95,4,4,Central,IA, 403585,5-May
+ 573,42,-95,4,4,Central,IA, 403585,5-May
+ 574,42,-95,4,4,Central,IA, 403585,5-May
+ 575,42,-95,4,4,Central,IA, 403585,5-May
+ 576,42,-95,4,4,Central,IA, 403585,5-May
+ 577,42,-95,4,4,Central,IA, 403585,5-May
+ 578,42,-95,4,4,Central,IA, 403585,5-May
+ 579,42,-95,4,4,Central,IA, 403585,5-May
+ 580,42,-95,4,4,Central,IA, 403585,5-May
+ 581,42,-95,4,4,Central,IA, 403585,5-May
+ 582,42,-95,4,4,Central,IA, 403585,5-May
+ 583,42,-95,4,4,Central,IA, 403585,5-May
+ 584,42,-95,4,4,Central,IA, 403585,5-May
+ 585,42,-95,4,4,Central,IA, 403585,5-May
+ 586,42,-95,4,4,Central,IA, 403585,5-May
+ 587,42,-95,4,4,Central,IA, 403585,5-May
+ 588,42,-95,4,4,Central,IA, 403585,5-May
+ 589,42,-95,4,4,Central,IA, 403585,5-May
+ 590,42,-95,4,4,Central,IA, 403585,5-May
+ 591,42,-95,4,4,Central,IA, 403585,5-May
+ 592,42,-95,4,4,Central,IA, 403585,5-May
+ 593,42,-95,4,4,Central,IA, 403585,5-May
+ 594,42,-95,4,4,Central,IA, 403585,5-May
+ 595,42,-95,4,4,Central,IA, 406185,5-May
+ 596,42,-95,4,4,Central,IA, 406189,5-May
+ 597,42,-95,4,4,Central,IA, 406193,5-May
+ 598,42,-95,4,4,Central,IA, 406193,5-May
+ 599,42,-95,4,4,Central,IA, 406332,5-May
+ 600,42,-95,4,4,Central,IA, 406336,5-May
+ 601,42,-95,4,4,Central,IA, 406343,5-May
+ 602,42,-95,4,4,Central,IA, 406344,5-May
+ 603,42,-95,4,4,Central,IA, 406357,5-May
+ 604,42,-95,4,4,Central,IA, 402795,5-May
+ 605,42,-95,4,4,Central,IA, 402795,5-May
+ 606,42,-95,4,4,Central,IA, 402795,5-May
+ 607,42,-95,4,4,Central,IA, 406366,5-May
+ 608,42,-95,4,4,Central,IA, 406367,5-May
+ 609,42,-95,4,4,Central,IA, 406368,5-May
+ 610,42,-95,4,4,Central,IA, 406371,5-May
+ 611,42,-95,4,4,Central,IA, 406397,5-May
+ 612,42,-95,4,4,Central,IA, 406422,5-May
+ 613,42,-95,4,4,Central,IA, 406430,5-May
+ 614,42,-95,4,4,Central,IA, 406433,5-May
+ 615,42,-95,4,4,Central,IA, 406435,5-May
+ 616,42,-95,4,4,Central,IA, 406442,5-May
+ 617,42,-95,4,4,Central,IA, 406442,5-May
+ 618,42,-95,4,4,Central,IA, 402796,5-May
+ 619,42,-95,4,4,Central,IA, 406443,5-May
+ 620,42,-95,4,4,Central,IA, 406443,5-May
+ 621,42,-95,4,4,Central,IA, 410754,5-May
+ 622,42,-95,4,4,Central,IA, 410754,5-May
+ 623,42,-95,4,4,Central,IA, 410767,5-May
+ 624,42,-95,4,4,Central,IA, 410812,5-May
+ 625,42,-95,4,4,Central,IA, 410812,5-May
+ 626,42,-95,4,4,Central,IA, 410815,5-May
+ 627,42,-95,4,4,Central,IA, 410815,5-May
+ 628,42,-95,4,4,Central,IA, 410819,5-May
+ 629,42,-95,4,4,Central,IA, 410844,5-May
+ 630,42,-95,4,4,Central,IA, 410847,5-May
+ 631,42,-95,4,4,Central,IA, 410849,5-May
+ 632,42,-95,4,4,Central,IA, 703830,5-May
+ 633,42,-95,4,4,Central,IA, 703830,5-May
+ 634,42,-95,4,4,Central,IA, 703830,5-May
+ 635,42,-95,4,4,Central,IA, 703830,5-May
+ 636,42,-95,4,4,Central,IA, 703830,5-May
+ 637,42,-95,4,4,Central,IA, 703830,5-May
+ 638,42,-95,4,4,Central,IA, 703830,5-May
+ 639,42,-95,4,4,Central,IA, 703830,5-May
+ 640,42,-95,4,4,Central,IA, 402798,5-May
+ 641,42,-95,4,4,Central,IA, 402798,5-May
+ 642,42,-95,4,4,Central,IA, 703831,5-May
+ 643,42,-95,4,4,Central,IA, 703831,5-May
+ 644,42,-95,4,4,Central,IA, 703831,5-May
+ 645,42,-95,4,4,Central,IA, 703831,5-May
+ 646,42,-95,4,4,Central,IA, 703831,5-May
+ 647,42,-95,4,4,Central,IA, 703831,5-May
+ 648,42,-95,4,4,Central,IA, 703831,5-May
+ 649,42,-95,4,4,Central,IA, 703831,5-May
+ 650,42,-95,4,4,Central,IA, 703831,5-May
+ 651,42,-95,4,4,Central,IA, 703831,5-May
+ 652,42,-95,4,4,Central,IA, 703831,5-May
+ 653,42,-95,4,4,Central,IA, 703831,5-May
+ 654,42,-95,4,4,Central,IA, 703831,5-May
+ 655,42,-95,4,4,Central,IA, 703831,5-May
+ 656,42,-95,4,4,Central,IA, 703831,5-May
+ 657,42,-95,4,4,Central,IA, 703831,5-May
+ 658,42,-95,4,4,Central,IA, 703831,5-May
+ 659,42,-95,4,4,Central,IA, 703831,5-May
+ 660,42,-95,4,4,Central,IA, 703831,5-May
+ 661,42,-95,4,4,Central,IA, 703831,5-May
+ 662,42,-95,4,4,Central,IA, 703831,5-May
+ 663,42,-95,4,4,Central,IA, 703831,5-May
+ 664,42,-95,4,4,Central,IA, 703831,5-May
+ 665,42,-95,4,4,Central,IA, 703831,5-May
+ 666,42,-95,4,4,Central,IA, 703831,5-May
+ 667,42,-95,4,4,Central,IA, 703831,5-May
+ 668,42,-95,4,4,Central,IA, 703831,5-May
+ 669,42,-95,4,4,Central,IA, 703831,5-May
+ 670,42,-95,4,4,Central,IA, 703831,5-May
+ 671,42,-95,4,4,Central,IA, 703831,5-May
+ 672,42,-95,4,4,Central,IA, 703831,5-May
+ 673,42,-95,4,4,Central,IA, 703831,5-May
+ 674,42,-95,4,4,Central,IA, 703831,5-May
+ 675,42,-95,4,4,Central,IA,2765523,5-May
+ 676,42,-95,4,4,Central,IA,2765523,5-May
+ 677,42,-95,4,4,Central,IA,2765523,5-May
+ 678,42,-95,4,4,Central,IA,2765523,5-May
+ 679,42,-95,4,4,Central,IA,2765524,5-May
+ 680,42,-95,4,4,Central,IA,2765524,5-May
+ 681,42,-95,4,4,Central,IA,2765524,5-May
+ 682,42,-95,4,4,Central,IA,2765524,5-May
+ 683,42,-95,4,4,Central,IA,2765524,5-May
+ 684,42,-95,4,4,Central,IA,2765524,5-May
+ 685,42,-95,4,4,Central,IA,2765524,5-May
+ 686,42,-95,4,4,Central,IA,2765524,5-May
+ 687,42,-95,4,4,Central,IA,2765524,5-May
+ 688,42,-95,4,4,Central,IA,2765524,5-May
+ 689,42,-95,4,4,Central,IA,2765524,5-May
+ 690,42,-95,4,4,Central,IA,2765524,5-May
+ 691,42,-95,4,4,Central,IA,2765524,5-May
+ 692,42,-95,4,4,Central,IA,2765524,5-May
+ 693,42,-95,4,4,Central,IA,2765524,5-May
+ 694,42,-95,4,4,Central,IA,2765524,5-May
+ 695,42,-95,4,4,Central,IA,2765524,5-May
+ 696,42,-95,4,4,Central,IA,2765524,5-May
+ 697,42,-95,4,4,Central,IA,2765524,5-May
+ 698,42,-95,4,4,Central,IA,2765524,5-May
+ 699,42,-95,4,4,Central,IA,2765524,5-May
+ 700,42,-95,4,4,Central,IA,2765524,5-May
+ 701,42,-95,4,4,Central,IA,2765524,5-May
+ 702,42,-95,4,4,Central,IA,2765524,5-May
+ 703,42,-95,4,4,Central,IA,2765524,5-May
+ 704,42,-95,4,4,Central,IA,2765524,5-May
+ 705,42,-95,4,4,Central,IA,2765524,5-May
+ 706,42,-95,4,4,Central,IA,2765524,5-May
+ 707,42,-95,4,4,Central,IA,2765524,5-May
+ 708,42,-95,4,4,Central,IA,2765524,5-May
+ 709,42,-95,4,4,Central,IA,2765524,5-May
+ 710,42,-95,4,4,Central,IA,2765524,5-May
+ 711,42,-95,4,4,Central,IA,2765524,5-May
+ 712,42,-95,4,4,Central,IA,2765524,5-May
+ 713,42,-95,4,4,Central,IA,2765524,5-May
+ 714,42,-95,4,4,Central,IA,2765524,5-May
+ 715,42,-95,4,4,Central,IA,2765524,5-May
+ 716,42,-95,4,4,Central,IA,2765524,5-May
+ 717,42,-95,4,4,Central,IA,2765524,5-May
+ 718,42,-95,4,4,Central,IA,2765524,5-May
+ 719,42,-95,4,4,Central,IA,2765528,5-May
+ 720,42,-95,4,4,Central,IA,2765528,5-May
+ 721,42,-95,4,4,Central,IA,2765528,5-May
+ 722,42,-95,4,4,Central,IA,2765529,5-May
+ 723,42,-95,4,4,Central,IA,2765536,5-May
+ 724,42,-95,4,4,Central,IA,2765536,5-May
+ 725,42,-95,4,4,Central,IA,2765536,5-May
+ 726,42,-95,4,4,Central,IA,2765540,5-May
+ 727,42,-95,4,4,Central,IA,2765540,5-May
+ 728,42,-95,4,4,Central,IA,2765540,5-May
+ 729,42,-95,4,4,Central,IA, 402799,5-May
+ 730,42,-95,4,4,Central,IA, 402799,5-May
+ 731,42,-95,4,4,Central,IA, 402800,5-May
+ 732,42,-95,4,4,Central,IA, 402801,5-May
+ 733,42,-95,4,4,Central,IA, 402801,5-May
+ 734,42,-95,4,4,Central,IA, 402801,5-May
+ 735,42,-95,4,4,Central,IA, 402801,5-May
+ 736,42,-95,4,4,Central,IA, 402801,5-May
+ 737,42,-95,4,4,Central,IA, 402802,5-May
+ 738,42,-95,4,4,Central,IA, 402802,5-May
+ 739,42,-95,4,4,Central,IA, 402802,5-May
+ 740,42,-95,4,4,Central,IA, 402802,5-May
+ 741,42,-95,4,4,Central,IA, 402802,5-May
+ 742,42,-95,4,4,Central,IA, 399864,5-May
+ 743,42,-95,4,4,Central,IA, 403453,5-May
+ 744,42,-95,4,4,Central,IA, 403453,5-May
+ 745,42,-95,4,4,Central,IA, 403453,5-May
+ 746,42,-95,4,4,Central,IA, 403454,5-May
+ 747,42,-95,4,4,Central,IA, 403455,5-May
+ 748,42,-95,4,4,Central,IA, 403456,5-May
+ 749,42,-95,4,4,Central,IA, 403457,5-May
+ 750,42,-95,4,4,Central,IA, 403458,5-May
+ 751,42,-95,4,4,Central,IA, 403460,5-May
+ 752,42,-95,4,4,Central,IA, 403461,5-May
+ 753,42,-95,4,4,Central,IA, 403461,5-May
+ 754,42,-95,4,4,Central,IA, 403463,5-May
+ 755,42,-95,4,4,Central,IA, 403475,5-May
+ 756,42,-95,4,4,Central,IA, 399865,5-May
+ 757,42,-95,4,4,Central,IA, 399865,5-May
+ 758,42,-95,4,4,Central,IA, 403484,5-May
+ 759,42,-95,4,4,Central,IA, 403484,5-May
+ 760,42,-95,4,4,Central,IA, 403487,5-May
+ 761,42,-95,4,4,Central,IA, 403487,5-May
+ 762,42,-95,4,4,Central,IA, 403487,5-May
+ 763,42,-95,4,4,Central,IA, 403488,5-May
+ 764,42,-95,4,4,Central,IA, 403491,5-May
+ 765,42,-95,4,4,Central,IA, 403492,5-May
+ 766,42,-95,4,4,Central,IA, 403494,5-May
+ 767,42,-95,4,4,Central,IA, 403496,5-May
+ 768,42,-95,4,4,Central,IA, 403500,5-May
+ 769,42,-95,4,4,Central,IA, 403500,5-May
+ 770,42,-95,4,4,Central,IA, 403500,5-May
+ 771,42,-95,4,4,Central,IA, 403500,5-May
+ 772,42,-95,4,4,Central,IA, 403500,5-May
+ 773,42,-95,4,4,Central,IA, 403500,5-May
+ 774,42,-95,4,4,Central,IA, 403500,5-May
+ 775,42,-95,4,4,Central,IA, 403500,5-May
+ 776,42,-95,4,4,Central,IA, 403500,5-May
+ 777,42,-95,4,4,Central,IA, 403500,5-May
+ 778,42,-95,4,4,Central,IA, 403500,5-May
+ 779,42,-95,4,4,Central,IA, 403500,5-May
+ 780,42,-95,4,4,Central,IA, 403500,5-May
+ 781,42,-95,4,4,Central,IA, 403500,5-May
+ 782,42,-95,4,4,Central,IA, 403500,5-May
+ 783,42,-95,4,4,Central,IA, 403500,5-May
+ 784,42,-95,4,4,Central,IA, 403500,5-May
+ 785,42,-95,4,4,Central,IA, 403500,5-May
+ 786,42,-95,4,4,Central,IA, 403500,5-May
+ 787,42,-95,4,4,Central,IA, 403500,5-May
+ 788,42,-95,4,4,Central,IA, 403500,5-May
+ 789,42,-95,4,4,Central,IA, 403500,5-May
+ 790,42,-95,4,4,Central,IA, 403500,5-May
+ 791,42,-95,4,4,Central,IA, 403500,5-May
+ 792,42,-95,4,4,Central,IA, 403500,5-May
+ 793,42,-95,4,4,Central,IA, 403500,5-May
+ 794,42,-95,4,4,Central,IA, 403500,5-May
+ 795,42,-95,4,4,Central,IA, 403500,5-May
+ 796,42,-95,4,4,Central,IA, 403500,5-May
+ 797,42,-95,4,4,Central,IA, 403500,5-May
+ 798,42,-95,4,4,Central,IA, 403500,5-May
+ 799,42,-95,4,4,Central,IA, 403500,5-May
+ 800,42,-95,4,4,Central,IA, 403500,5-May
+ 801,42,-95,4,4,Central,IA, 403500,5-May
+ 802,42,-95,4,4,Central,IA, 403500,5-May
+ 803,42,-95,4,4,Central,IA, 403500,5-May
+ 804,42,-95,4,4,Central,IA, 403500,5-May
+ 805,42,-95,4,4,Central,IA, 403500,5-May
+ 806,42,-95,4,4,Central,IA, 403501,5-May
+ 807,42,-95,4,4,Central,IA, 403501,5-May
+ 808,42,-95,4,4,Central,IA, 403501,5-May
+ 809,42,-95,4,4,Central,IA, 403501,5-May
+ 810,42,-95,4,4,Central,IA, 403501,5-May
+ 811,42,-95,4,4,Central,IA, 403501,5-May
+ 812,42,-95,4,4,Central,IA, 403501,5-May
+ 813,42,-95,4,4,Central,IA, 403501,5-May
+ 814,42,-95,4,4,Central,IA, 403501,5-May
+ 815,42,-95,4,4,Central,IA, 403501,5-May
+ 816,42,-95,4,4,Central,IA, 403501,5-May
+ 817,42,-95,4,4,Central,IA, 403501,5-May
+ 818,42,-95,4,4,Central,IA, 403501,5-May
+ 819,42,-95,4,4,Central,IA, 403501,5-May
+ 820,42,-95,4,4,Central,IA, 403501,5-May
+ 821,42,-95,4,4,Central,IA, 403501,5-May
+ 822,42,-95,4,4,Central,IA, 403501,5-May
+ 823,42,-95,4,4,Central,IA, 403501,5-May
+ 824,42,-95,4,4,Central,IA, 403501,5-May
+ 825,42,-95,4,4,Central,IA, 403502,5-May
+ 826,42,-95,4,4,Central,IA, 403502,5-May
+ 827,42,-95,4,4,Central,IA, 403502,5-May
+ 828,42,-95,4,4,Central,IA, 403502,5-May
+ 829,42,-95,4,4,Central,IA, 403502,5-May
+ 830,42,-95,4,4,Central,IA, 403502,5-May
+ 831,42,-95,4,4,Central,IA, 403502,5-May
+ 832,42,-95,4,4,Central,IA, 403502,5-May
+ 833,42,-95,4,4,Central,IA, 403502,5-May
+ 834,42,-95,4,4,Central,IA, 403502,5-May
+ 835,42,-95,4,4,Central,IA, 403502,5-May
+ 836,42,-95,4,4,Central,IA, 403502,5-May
+ 837,42,-95,4,4,Central,IA, 403502,5-May
+ 838,42,-95,4,4,Central,IA, 403502,5-May
+ 839,42,-95,4,4,Central,IA, 403502,5-May
+ 840,42,-95,4,4,Central,IA, 403502,5-May
+ 841,42,-95,4,4,Central,IA, 403502,5-May
+ 842,42,-95,4,4,Central,IA, 403502,5-May
+ 843,42,-95,4,4,Central,IA, 403502,5-May
+ 844,42,-95,4,4,Central,IA, 403502,5-May
+ 845,42,-95,4,4,Central,IA, 403502,5-May
+ 846,42,-95,4,4,Central,IA, 403502,5-May
+ 847,42,-95,4,4,Central,IA, 403502,5-May
+ 848,42,-95,4,4,Central,IA, 403502,5-May
+ 849,42,-95,4,4,Central,IA, 403502,5-May
+ 850,42,-95,4,4,Central,IA, 399867,5-May
+ 851,42,-95,4,4,Central,IA, 403503,5-May
+ 852,42,-95,4,4,Central,IA, 403503,5-May
+ 853,42,-95,4,4,Central,IA, 403503,5-May
+ 854,42,-95,4,4,Central,IA, 403503,5-May
+ 855,42,-95,4,4,Central,IA, 403503,5-May
+ 856,42,-95,4,4,Central,IA, 403503,5-May
+ 857,42,-95,4,4,Central,IA, 403503,5-May
+ 858,42,-95,4,4,Central,IA, 403503,5-May
+ 859,42,-95,4,4,Central,IA, 403503,5-May
+ 860,42,-95,4,4,Central,IA, 403503,5-May
+ 861,42,-95,4,4,Central,IA, 403503,5-May
+ 862,42,-95,4,4,Central,IA, 403503,5-May
+ 863,42,-95,4,4,Central,IA, 403503,5-May
+ 864,42,-95,4,4,Central,IA, 403503,5-May
+ 865,42,-95,4,4,Central,IA, 403503,5-May
+ 866,42,-95,4,4,Central,IA, 403503,5-May
+ 867,42,-95,4,4,Central,IA, 403503,5-May
+ 868,42,-95,4,4,Central,IA, 403503,5-May
+ 869,42,-95,4,4,Central,IA, 403504,5-May
+ 870,42,-95,4,4,Central,IA, 403504,5-May
+ 871,42,-95,4,4,Central,IA, 403504,5-May
+ 872,42,-95,4,4,Central,IA, 403504,5-May
+ 873,42,-95,4,4,Central,IA, 403504,5-May
+ 874,42,-95,4,4,Central,IA, 403504,5-May
+ 875,42,-95,4,4,Central,IA, 403504,5-May
+ 876,42,-95,4,4,Central,IA, 403504,5-May
+ 877,42,-95,4,4,Central,IA, 403504,5-May
+ 878,42,-95,4,4,Central,IA, 403504,5-May
+ 879,42,-95,4,4,Central,IA, 403504,5-May
+ 880,42,-95,4,4,Central,IA, 403504,5-May
+ 881,42,-95,4,4,Central,IA, 403504,5-May
+ 882,42,-95,4,4,Central,IA, 403504,5-May
+ 883,42,-95,4,4,Central,IA, 403504,5-May
+ 884,42,-95,4,4,Central,IA, 403504,5-May
+ 885,42,-95,4,4,Central,IA, 403504,5-May
+ 886,42,-95,4,4,Central,IA, 403504,5-May
+ 887,42,-95,4,4,Central,IA, 403504,5-May
+ 888,42,-95,4,4,Central,IA, 403504,5-May
+ 889,42,-95,4,4,Central,IA, 403504,5-May
+ 890,42,-95,4,4,Central,IA, 403504,5-May
+ 891,42,-95,4,4,Central,IA, 403504,5-May
+ 892,42,-95,4,4,Central,IA, 403504,5-May
+ 893,42,-95,4,4,Central,IA, 403504,5-May
+ 894,42,-95,4,4,Central,IA, 403504,5-May
+ 895,42,-95,4,4,Central,IA, 403504,5-May
+ 896,42,-95,4,4,Central,IA, 403504,5-May
+ 897,42,-95,4,4,Central,IA, 403504,5-May
+ 898,42,-95,4,4,Central,IA, 403504,5-May
+ 899,42,-95,4,4,Central,IA, 403504,5-May
+ 900,42,-95,4,4,Central,IA, 403504,5-May
+ 901,42,-95,4,4,Central,IA, 403504,5-May
+ 902,42,-95,4,4,Central,IA, 403504,5-May
+ 903,42,-95,4,4,Central,IA, 403504,5-May
+ 904,42,-95,4,4,Central,IA, 403504,5-May
+ 905,42,-95,4,4,Central,IA, 403504,5-May
+ 906,42,-95,4,4,Central,IA, 403504,5-May
+ 907,42,-95,4,4,Central,IA, 403504,5-May
+ 908,42,-95,4,4,Central,IA, 403504,5-May
+ 909,42,-95,4,4,Central,IA, 403504,5-May
+ 910,42,-95,4,4,Central,IA, 403505,5-May
+ 911,42,-95,4,4,Central,IA, 403505,5-May
+ 912,42,-95,4,4,Central,IA, 403505,5-May
+ 913,42,-95,4,4,Central,IA, 403505,5-May
+ 914,42,-95,4,4,Central,IA, 403505,5-May
+ 915,42,-95,4,4,Central,IA, 403505,5-May
+ 916,42,-95,4,4,Central,IA, 403505,5-May
+ 917,42,-95,4,4,Central,IA, 403505,5-May
+ 918,42,-95,4,4,Central,IA, 403505,5-May
+ 919,42,-95,4,4,Central,IA, 403505,5-May
+ 920,42,-95,4,4,Central,IA, 403505,5-May
+ 921,42,-95,4,4,Central,IA, 403505,5-May
+ 922,42,-95,4,4,Central,IA, 403505,5-May
+ 923,42,-95,4,4,Central,IA, 403505,5-May
+ 924,42,-95,4,4,Central,IA, 403505,5-May
+ 925,42,-95,4,4,Central,IA, 403505,5-May
+ 926,42,-95,4,4,Central,IA, 403505,5-May
+ 927,42,-95,4,4,Central,IA, 403505,5-May
+ 928,42,-95,4,4,Central,IA, 403505,5-May
+ 929,42,-95,4,4,Central,IA, 403505,5-May
+ 930,42,-95,4,4,Central,IA, 403505,5-May
+ 931,42,-95,4,4,Central,IA, 403505,5-May
+ 932,42,-95,4,4,Central,IA, 403505,5-May
+ 933,42,-95,4,4,Central,IA, 403505,5-May
+ 934,42,-95,4,4,Central,IA, 403505,5-May
+ 935,42,-95,4,4,Central,IA, 403505,5-May
+ 936,42,-95,4,4,Central,IA, 403505,5-May
+ 937,42,-95,4,4,Central,IA, 403505,5-May
+ 938,42,-95,4,4,Central,IA, 403505,5-May
+ 939,42,-95,4,4,Central,IA, 403505,5-May
+ 940,42,-95,4,4,Central,IA, 403505,5-May
+ 941,42,-95,4,4,Central,IA, 403505,5-May
+ 942,42,-95,4,4,Central,IA, 403505,5-May
+ 943,42,-95,4,4,Central,IA, 403505,5-May
+ 944,42,-95,4,4,Central,IA, 403505,5-May
+ 945,42,-95,4,4,Central,IA, 403505,5-May
+ 946,42,-95,4,4,Central,IA, 403505,5-May
+ 947,42,-95,4,4,Central,IA, 403505,5-May
+ 948,42,-95,4,4,Central,IA, 403506,5-May
+ 949,42,-95,4,4,Central,IA, 403506,5-May
+ 950,42,-95,4,4,Central,IA, 403506,5-May
+ 951,42,-95,4,4,Central,IA, 403506,5-May
+ 952,42,-95,4,4,Central,IA, 403506,5-May
+ 953,42,-95,4,4,Central,IA, 403506,5-May
+ 954,42,-95,4,4,Central,IA, 403506,5-May
+ 955,42,-95,4,4,Central,IA, 403506,5-May
+ 956,42,-95,4,4,Central,IA, 403506,5-May
+ 957,42,-95,4,4,Central,IA, 403506,5-May
+ 958,42,-95,4,4,Central,IA, 403506,5-May
+ 959,42,-95,4,4,Central,IA, 403506,5-May
+ 960,42,-95,4,4,Central,IA, 403506,5-May
+ 961,42,-95,4,4,Central,IA, 403506,5-May
+ 962,42,-95,4,4,Central,IA, 403506,5-May
+ 963,42,-95,4,4,Central,IA, 403506,5-May
+ 964,42,-95,4,4,Central,IA, 403506,5-May
+ 965,42,-95,4,4,Central,IA, 403506,5-May
+ 966,42,-95,4,4,Central,IA, 403506,5-May
+ 967,42,-95,4,4,Central,IA, 403506,5-May
+ 968,42,-95,4,4,Central,IA, 403506,5-May
+ 969,42,-95,4,4,Central,IA, 403506,5-May
+ 970,42,-95,4,4,Central,IA, 403506,5-May
+ 971,42,-95,4,4,Central,IA, 403506,5-May
+ 972,42,-95,4,4,Central,IA, 403506,5-May
+ 973,42,-95,4,4,Central,IA, 403506,5-May
+ 974,42,-95,4,4,Central,IA, 403506,5-May
+ 975,42,-95,4,4,Central,IA, 403506,5-May
+ 976,42,-95,4,4,Central,IA, 403506,5-May
+ 977,42,-95,4,4,Central,IA, 403506,5-May
+ 978,42,-95,4,4,Central,IA, 403506,5-May
+ 979,42,-95,4,4,Central,IA, 403506,5-May
+ 980,42,-95,4,4,Central,IA, 403506,5-May
+ 981,42,-95,4,4,Central,IA, 403506,5-May
+ 982,42,-95,4,4,Central,IA, 403506,5-May
+ 983,42,-95,4,4,Central,IA, 403506,5-May
+ 984,42,-95,4,4,Central,IA, 403506,5-May
+ 985,42,-95,4,4,Central,IA, 403506,5-May
+ 986,42,-95,4,4,Central,IA, 403507,5-May
+ 987,42,-95,4,4,Central,IA, 403507,5-May
+ 988,42,-95,4,4,Central,IA, 403507,5-May
+ 989,42,-95,4,4,Central,IA, 403507,5-May
+ 990,42,-95,4,4,Central,IA, 403507,5-May
+ 991,42,-95,4,4,Central,IA, 403507,5-May
+ 992,42,-95,4,4,Central,IA, 403507,5-May
+ 993,42,-95,4,4,Central,IA, 403507,5-May
+ 994,42,-95,4,4,Central,IA, 403507,5-May
+ 995,42,-95,4,4,Central,IA, 403507,5-May
+ 996,42,-95,4,4,Central,IA, 403507,5-May
+ 997,42,-95,4,4,Central,IA, 403507,5-May
+ 998,42,-95,4,4,Central,IA, 403507,5-May
+ 999,42,-95,4,4,Central,IA, 403507,5-May
+1000,42,-95,4,4,Central,IA, 403507,5-May
+1001,42,-95,4,4,Central,IA, 403507,5-May
+1002,42,-95,4,4,Central,IA, 403507,5-May
+1003,42,-95,4,4,Central,IA, 403507,5-May
+1004,42,-95,4,4,Central,IA, 403507,5-May
+1005,42,-95,4,4,Central,IA, 403507,5-May
+1006,42,-95,4,4,Central,IA, 403507,5-May
+1007,42,-95,4,4,Central,IA, 403507,5-May
+1008,42,-95,4,4,Central,IA, 403507,5-May
+1009,42,-95,4,4,Central,IA, 403507,5-May
+1010,42,-95,4,4,Central,IA, 403507,5-May
+1011,42,-95,4,4,Central,IA, 403507,5-May
+1012,42,-95,4,4,Central,IA, 403507,5-May
+1013,42,-95,4,4,Central,IA, 403507,5-May
+1014,42,-95,4,4,Central,IA, 403507,5-May
+1015,42,-95,4,4,Central,IA, 403507,5-May
+1016,42,-95,4,4,Central,IA, 403507,5-May
+1017,42,-95,4,4,Central,IA, 403507,5-May
+1018,42,-95,4,4,Central,IA, 403507,5-May
+1019,42,-95,4,4,Central,IA, 403509,5-May
+1020,42,-95,4,4,Central,IA, 403509,5-May
+1021,42,-95,4,4,Central,IA, 403509,5-May
+1022,42,-95,4,4,Central,IA, 403509,5-May
+1023,42,-95,4,4,Central,IA, 403509,5-May
+1024,42,-95,4,4,Central,IA, 403509,5-May
+1025,42,-95,4,4,Central,IA, 403509,5-May
+1026,42,-95,4,4,Central,IA, 403509,5-May
+1027,42,-95,4,4,Central,IA, 403509,5-May
+1028,42,-95,4,4,Central,IA, 403509,5-May
+1029,42,-95,4,4,Central,IA, 403509,5-May
+1030,42,-95,4,4,Central,IA, 403509,5-May
+1031,42,-95,4,4,Central,IA, 403509,5-May
+1032,42,-95,4,4,Central,IA, 403509,5-May
+1033,42,-95,4,4,Central,IA, 403509,5-May
+1034,42,-95,4,4,Central,IA, 403509,5-May
+1035,42,-95,4,4,Central,IA, 403509,5-May
+1036,42,-95,4,4,Central,IA, 403509,5-May
+1037,42,-95,4,4,Central,IA, 403509,5-May
+1038,42,-95,4,4,Central,IA, 403509,5-May
+1039,42,-95,4,4,Central,IA, 403509,5-May
+1040,42,-95,4,4,Central,IA, 403509,5-May
+1041,42,-95,4,4,Central,IA, 403509,5-May
+1042,42,-95,4,4,Central,IA, 403509,5-May
+1043,42,-95,4,4,Central,IA, 403509,5-May
+1044,42,-95,4,4,Central,IA, 403509,5-May
+1045,42,-95,4,4,Central,IA, 403509,5-May
+1046,42,-95,4,4,Central,IA, 403509,5-May
+1047,42,-95,4,4,Central,IA, 403509,5-May
+1048,42,-95,4,4,Central,IA, 403509,5-May
+1049,42,-95,4,4,Central,IA, 403509,5-May
+1050,42,-95,4,4,Central,IA, 403509,5-May
+1051,42,-95,4,4,Central,IA, 403509,5-May
+1052,42,-95,4,4,Central,IA, 403509,5-May
+1053,42,-95,4,4,Central,IA, 403509,5-May
+1054,42,-95,4,4,Central,IA, 403509,5-May
+1055,42,-95,4,4,Central,IA, 403510,5-May
+1056,42,-95,4,4,Central,IA, 403510,5-May
+1057,42,-95,4,4,Central,IA, 403510,5-May
+1058,42,-95,4,4,Central,IA, 403510,5-May
+1059,42,-95,4,4,Central,IA, 403510,5-May
+1060,42,-95,4,4,Central,IA, 403510,5-May
+1061,42,-95,4,4,Central,IA, 403510,5-May
+1062,42,-95,4,4,Central,IA, 403510,5-May
+1063,42,-95,4,4,Central,IA, 403510,5-May
+1064,42,-95,4,4,Central,IA, 403510,5-May
+1065,42,-95,4,4,Central,IA, 403510,5-May
+1066,42,-95,4,4,Central,IA, 403510,5-May
+1067,42,-95,4,4,Central,IA, 403510,5-May
+1068,42,-95,4,4,Central,IA, 403510,5-May
+1069,42,-95,4,4,Central,IA, 403510,5-May
+1070,42,-95,4,4,Central,IA, 403510,5-May
+1071,42,-95,4,4,Central,IA, 403510,5-May
+1072,42,-95,4,4,Central,IA, 403510,5-May
+1073,42,-95,4,4,Central,IA, 403510,5-May
+1074,42,-95,4,4,Central,IA, 403510,5-May
+1075,42,-95,4,4,Central,IA, 403510,5-May
+1076,42,-95,4,4,Central,IA, 403510,5-May
+1077,42,-95,4,4,Central,IA, 403510,5-May
+1078,42,-95,4,4,Central,IA, 403510,5-May
+1079,42,-95,4,4,Central,IA, 403510,5-May
+1080,42,-95,4,4,Central,IA, 403510,5-May
+1081,42,-95,4,4,Central,IA, 403510,5-May
+1082,42,-95,4,4,Central,IA, 403510,5-May
+1083,42,-95,4,4,Central,IA, 403510,5-May
+1084,42,-95,4,4,Central,IA, 403511,5-May
+1085,42,-95,4,4,Central,IA, 403511,5-May
+1086,42,-95,4,4,Central,IA, 403511,5-May
+1087,42,-95,4,4,Central,IA, 403511,5-May
+1088,42,-95,4,4,Central,IA, 403511,5-May
+1089,42,-95,4,4,Central,IA, 403511,5-May
+1090,42,-95,4,4,Central,IA, 403511,5-May
+1091,42,-95,4,4,Central,IA, 403511,5-May
+1092,42,-95,4,4,Central,IA, 403511,5-May
+1093,42,-95,4,4,Central,IA, 403511,5-May
+1094,42,-95,4,4,Central,IA, 403511,5-May
+1095,42,-95,4,4,Central,IA, 403511,5-May
+1096,42,-95,4,4,Central,IA, 403511,5-May
+1097,42,-95,4,4,Central,IA, 403511,5-May
+1098,42,-95,4,4,Central,IA, 403511,5-May
+1099,42,-95,4,4,Central,IA, 403511,5-May
+1100,42,-95,4,4,Central,IA, 403511,5-May
+1101,42,-95,4,4,Central,IA, 403511,5-May
+1102,42,-95,4,4,Central,IA, 403511,5-May
+1103,42,-95,4,4,Central,IA, 403511,5-May
+1104,42,-95,4,4,Central,IA, 403511,5-May
+1105,42,-95,4,4,Central,IA, 403511,5-May
+1106,42,-95,4,4,Central,IA, 403511,5-May
+1107,42,-95,4,4,Central,IA, 403511,5-May
+1108,42,-95,4,4,Central,IA, 403511,5-May
+1109,42,-95,4,4,Central,IA, 403511,5-May
+1110,42,-95,4,4,Central,IA, 403511,5-May
+1111,42,-95,4,4,Central,IA, 403511,5-May
+1112,42,-95,4,4,Central,IA, 403511,5-May
+1113,42,-95,4,4,Central,IA, 403511,5-May
+1114,42,-95,4,4,Central,IA, 403511,5-May
+1115,42,-95,4,4,Central,IA, 403511,5-May
+1116,42,-95,4,4,Central,IA, 403511,5-May
+1117,42,-95,4,4,Central,IA, 403511,5-May
+1118,42,-95,4,4,Central,IA, 403511,5-May
+1119,42,-95,4,4,Central,IA, 403512,5-May
+1120,42,-95,4,4,Central,IA, 403512,5-May
+1121,42,-95,4,4,Central,IA, 403512,5-May
+1122,42,-95,4,4,Central,IA, 403512,5-May
+1123,42,-95,4,4,Central,IA, 403512,5-May
+1124,42,-95,4,4,Central,IA, 403512,5-May
+1125,42,-95,4,4,Central,IA, 403512,5-May
+1126,42,-95,4,4,Central,IA, 403512,5-May
+1127,42,-95,4,4,Central,IA, 403512,5-May
+1128,42,-95,4,4,Central,IA, 403512,5-May
+1129,42,-95,4,4,Central,IA, 403512,5-May
+1130,42,-95,4,4,Central,IA, 403512,5-May
+1131,42,-95,4,4,Central,IA, 403512,5-May
+1132,42,-95,4,4,Central,IA, 403512,5-May
+1133,42,-95,4,4,Central,IA, 403512,5-May
+1134,42,-95,4,4,Central,IA, 403512,5-May
+1135,42,-95,4,4,Central,IA, 403512,5-May
+1136,42,-95,4,4,Central,IA, 403512,5-May
+1137,42,-95,4,4,Central,IA, 403512,5-May
+1138,42,-95,4,4,Central,IA, 403512,5-May
+1139,42,-95,4,4,Central,IA, 403512,5-May
+1140,42,-95,4,4,Central,IA, 403512,5-May
+1141,42,-95,4,4,Central,IA, 403512,5-May
+1142,42,-95,4,4,Central,IA, 403512,5-May
+1143,42,-95,4,4,Central,IA, 403512,5-May
+1144,42,-95,4,4,Central,IA, 403512,5-May
+1145,42,-95,4,4,Central,IA, 403512,5-May
+1146,42,-95,4,4,Central,IA, 403512,5-May
+1147,42,-95,4,4,Central,IA, 403512,5-May
+1148,42,-95,4,4,Central,IA, 403512,5-May
+1149,42,-95,4,4,Central,IA, 403512,5-May
+1150,42,-95,4,4,Central,IA, 403512,5-May
+1151,42,-95,4,4,Central,IA, 403512,5-May
+1152,42,-95,4,4,Central,IA, 403513,5-May
+1153,42,-95,4,4,Central,IA, 403513,5-May
+1154,42,-95,4,4,Central,IA, 403513,5-May
+1155,42,-95,4,4,Central,IA, 403513,5-May
+1156,42,-95,4,4,Central,IA, 403513,5-May
+1157,42,-95,4,4,Central,IA, 399870,5-May
+1158,42,-95,4,4,Central,IA, 399870,5-May
+1159,42,-95,4,4,Central,IA, 403514,5-May
+1160,42,-95,4,4,Central,IA, 403514,5-May
+1161,42,-95,4,4,Central,IA, 403514,5-May
+1162,42,-95,4,4,Central,IA, 403514,5-May
+1163,42,-95,4,4,Central,IA, 403514,5-May
+1164,42,-95,4,4,Central,IA, 403515,5-May
+1165,42,-95,4,4,Central,IA, 403515,5-May
+1166,42,-95,4,4,Central,IA, 403515,5-May
+1167,42,-95,4,4,Central,IA, 403515,5-May
+1168,42,-95,4,4,Central,IA, 403515,5-May
+1169,42,-95,4,4,Central,IA, 403515,5-May
+1170,42,-95,4,4,Central,IA, 403516,5-May
+1171,42,-95,4,4,Central,IA, 403516,5-May
+1172,42,-95,4,4,Central,IA, 403517,5-May
+1173,42,-95,4,4,Central,IA, 403517,5-May
+1174,42,-95,4,4,Central,IA, 403517,5-May
+1175,42,-95,4,4,Central,IA, 403517,5-May
+1176,42,-95,4,4,Central,IA, 403517,5-May
+1177,42,-95,4,4,Central,IA, 403517,5-May
+1178,42,-95,4,4,Central,IA, 403517,5-May
+1179,42,-95,4,4,Central,IA, 403517,5-May
+1180,42,-95,4,4,Central,IA, 403517,5-May
+1181,42,-95,4,4,Central,IA, 403517,5-May
+1182,42,-95,4,4,Central,IA, 403517,5-May
+1183,42,-95,4,4,Central,IA, 403517,5-May
+1184,42,-95,4,4,Central,IA, 403517,5-May
+1185,42,-95,4,4,Central,IA, 403517,5-May
+1186,42,-95,4,4,Central,IA, 403517,5-May
+1187,42,-95,4,4,Central,IA, 403517,5-May
+1188,42,-95,4,4,Central,IA, 403518,5-May
+1189,42,-95,4,4,Central,IA, 403518,5-May
+1190,42,-95,4,4,Central,IA, 403518,5-May
+1191,42,-95,4,4,Central,IA, 403518,5-May
+1192,42,-95,4,4,Central,IA, 403518,5-May
+1193,42,-95,4,4,Central,IA, 403518,5-May
+1194,42,-95,4,4,Central,IA, 403518,5-May
+1195,42,-95,4,4,Central,IA, 403518,5-May
+1196,42,-95,4,4,Central,IA, 403518,5-May
+1197,42,-95,4,4,Central,IA, 403518,5-May
+1198,42,-95,4,4,Central,IA, 403518,5-May
+1199,42,-95,4,4,Central,IA, 403518,5-May
+1200,42,-95,4,4,Central,IA, 403518,5-May
+1201,42,-95,4,4,Central,IA, 403518,5-May
+1202,42,-95,4,4,Central,IA, 403518,5-May
+1203,42,-95,4,4,Central,IA, 403518,5-May
+1204,42,-95,4,4,Central,IA, 403518,5-May
+1205,42,-95,4,4,Central,IA, 403518,5-May
+1206,42,-95,4,4,Central,IA, 403518,5-May
+1207,42,-95,4,4,Central,IA, 403518,5-May
+1208,42,-95,4,4,Central,IA, 403518,5-May
+1209,42,-95,4,4,Central,IA, 403518,5-May
+1210,42,-95,4,4,Central,IA, 403518,5-May
+1211,42,-95,4,4,Central,IA, 403518,5-May
+1212,42,-95,4,4,Central,IA, 403518,5-May
+1213,42,-95,4,4,Central,IA, 403518,5-May
+1214,42,-95,4,4,Central,IA, 403518,5-May
+1215,42,-95,4,4,Central,IA, 403518,5-May
+1216,42,-95,4,4,Central,IA, 403518,5-May
+1217,42,-95,4,4,Central,IA, 403518,5-May
+1218,42,-95,4,4,Central,IA, 403518,5-May
+1219,42,-95,4,4,Central,IA, 403518,5-May
+1220,42,-95,4,4,Central,IA, 403518,5-May
+1221,42,-95,4,4,Central,IA, 403518,5-May
+1222,42,-95,4,4,Central,IA, 403519,5-May
+1223,42,-95,4,4,Central,IA, 403519,5-May
+1224,42,-95,4,4,Central,IA, 403519,5-May
+1225,42,-95,4,4,Central,IA, 403519,5-May
+1226,42,-95,4,4,Central,IA, 403519,5-May
+1227,42,-95,4,4,Central,IA, 403519,5-May
+1228,42,-95,4,4,Central,IA, 403519,5-May
+1229,42,-95,4,4,Central,IA, 403519,5-May
+1230,42,-95,4,4,Central,IA, 403519,5-May
+1231,42,-95,4,4,Central,IA, 403519,5-May
+1232,42,-95,4,4,Central,IA, 403519,5-May
+1233,42,-95,4,4,Central,IA, 403519,5-May
+1234,42,-95,4,4,Central,IA, 403519,5-May
+1235,42,-95,4,4,Central,IA, 403519,5-May
+1236,42,-95,4,4,Central,IA, 403519,5-May
+1237,42,-95,4,4,Central,IA, 403519,5-May
+1238,42,-95,4,4,Central,IA, 403519,5-May
+1239,42,-95,4,4,Central,IA, 403519,5-May
+1240,42,-95,4,4,Central,IA, 403519,5-May
+1241,42,-95,4,4,Central,IA, 403519,5-May
+1242,42,-95,4,4,Central,IA, 403519,5-May
+1243,42,-95,4,4,Central,IA, 403519,5-May
+1244,42,-95,4,4,Central,IA, 403519,5-May
+1245,42,-95,4,4,Central,IA, 403519,5-May
+1246,42,-95,4,4,Central,IA, 403519,5-May
+1247,42,-95,4,4,Central,IA, 403519,5-May
+1248,42,-95,4,4,Central,IA, 403519,5-May
+1249,42,-95,4,4,Central,IA, 403519,5-May
+1250,42,-95,4,4,Central,IA, 403519,5-May
+1251,42,-95,4,4,Central,IA, 403519,5-May
+1252,42,-95,4,4,Central,IA, 403520,5-May
+1253,42,-95,4,4,Central,IA, 403520,5-May
+1254,42,-95,4,4,Central,IA, 403520,5-May
+1255,42,-95,4,4,Central,IA, 403520,5-May
+1256,42,-95,4,4,Central,IA, 403520,5-May
+1257,42,-95,4,4,Central,IA, 403520,5-May
+1258,42,-95,4,4,Central,IA, 403520,5-May
+1259,42,-95,4,4,Central,IA, 403520,5-May
+1260,42,-95,4,4,Central,IA, 403520,5-May
+1261,42,-95,4,4,Central,IA, 403520,5-May
+1262,42,-95,4,4,Central,IA, 403520,5-May
+1263,42,-95,4,4,Central,IA, 403520,5-May
+1264,42,-95,4,4,Central,IA, 403520,5-May
+1265,42,-95,4,4,Central,IA, 403520,5-May
+1266,42,-95,4,4,Central,IA, 403520,5-May
+1267,42,-95,4,4,Central,IA, 403520,5-May
+1268,42,-95,4,4,Central,IA, 403520,5-May
+1269,42,-95,4,4,Central,IA, 403520,5-May
+1270,42,-95,4,4,Central,IA, 403520,5-May
+1271,42,-95,4,4,Central,IA, 403520,5-May
+1272,42,-95,4,4,Central,IA, 403520,5-May
+1273,42,-95,4,4,Central,IA, 403520,5-May
+1274,42,-95,4,4,Central,IA, 403520,5-May
+1275,42,-95,4,4,Central,IA, 403520,5-May
+1276,42,-95,4,4,Central,IA, 403520,5-May
+1277,42,-95,4,4,Central,IA, 403520,5-May
+1278,42,-95,4,4,Central,IA, 403520,5-May
+1279,42,-95,4,4,Central,IA, 403520,5-May
+1280,42,-95,4,4,Central,IA, 403520,5-May
+1281,42,-95,4,4,Central,IA, 403520,5-May
+1282,42,-95,4,4,Central,IA, 403520,5-May
+1283,42,-95,4,4,Central,IA, 403520,5-May
+1284,42,-95,4,4,Central,IA, 403520,5-May
+1285,42,-95,4,4,Central,IA, 403520,5-May
+1286,42,-95,4,4,Central,IA, 403520,5-May
+1287,42,-95,4,4,Central,IA, 403521,5-May
+1288,42,-95,4,4,Central,IA, 403521,5-May
+1289,42,-95,4,4,Central,IA, 403521,5-May
+1290,42,-95,4,4,Central,IA, 403521,5-May
+1291,42,-95,4,4,Central,IA, 403521,5-May
+1292,42,-95,4,4,Central,IA, 403521,5-May
+1293,42,-95,4,4,Central,IA, 403521,5-May
+1294,42,-95,4,4,Central,IA, 403521,5-May
+1295,42,-95,4,4,Central,IA, 403521,5-May
+1296,42,-95,4,4,Central,IA, 403521,5-May
+1297,42,-95,4,4,Central,IA, 403521,5-May
+1298,42,-95,4,4,Central,IA, 403521,5-May
+1299,42,-95,4,4,Central,IA, 403521,5-May
+1300,42,-95,4,4,Central,IA, 403521,5-May
+1301,42,-95,4,4,Central,IA, 403521,5-May
+1302,42,-95,4,4,Central,IA, 403521,5-May
+1303,42,-95,4,4,Central,IA, 403521,5-May
+1304,42,-95,4,4,Central,IA, 403521,5-May
+1305,42,-95,4,4,Central,IA, 403521,5-May
+1306,42,-95,4,4,Central,IA, 403521,5-May
+1307,42,-95,4,4,Central,IA, 403521,5-May
+1308,42,-95,4,4,Central,IA, 403521,5-May
+1309,42,-95,4,4,Central,IA, 403521,5-May
+1310,42,-95,4,4,Central,IA, 403521,5-May
+1311,42,-95,4,4,Central,IA, 403521,5-May
+1312,42,-95,4,4,Central,IA, 403521,5-May
+1313,42,-95,4,4,Central,IA, 403521,5-May
+1314,42,-95,4,4,Central,IA, 403521,5-May
+1315,42,-95,4,4,Central,IA, 403522,5-May
+1316,42,-95,4,4,Central,IA, 403522,5-May
+1317,42,-95,4,4,Central,IA, 403522,5-May
+1318,42,-95,4,4,Central,IA, 403522,5-May
+1319,42,-95,4,4,Central,IA, 403522,5-May
+1320,42,-95,4,4,Central,IA, 403522,5-May
+1321,42,-95,4,4,Central,IA, 403522,5-May
+1322,42,-95,4,4,Central,IA, 403522,5-May
+1323,42,-95,4,4,Central,IA, 403522,5-May
+1324,42,-95,4,4,Central,IA, 403522,5-May
+1325,42,-95,4,4,Central,IA, 403523,5-May
+1326,42,-95,4,4,Central,IA, 403523,5-May
+1327,42,-95,4,4,Central,IA, 403523,5-May
+1328,42,-95,4,4,Central,IA, 403523,5-May
+1329,42,-95,4,4,Central,IA, 403523,5-May
+1330,42,-95,4,4,Central,IA, 403523,5-May
+1331,42,-95,4,4,Central,IA, 402748,5-May
+1332,42,-95,4,4,Central,IA, 402748,5-May
+1333,42,-95,4,4,Central,IA, 402748,5-May
+1334,42,-95,4,4,Central,IA, 402748,5-May
+1335,42,-95,4,4,Central,IA, 403524,5-May
+1336,42,-95,4,4,Central,IA, 403524,5-May
+1337,42,-95,4,4,Central,IA, 403524,5-May
+1338,42,-95,4,4,Central,IA, 403524,5-May
+1339,42,-95,4,4,Central,IA, 403524,5-May
+1340,42,-95,4,4,Central,IA, 403524,5-May
+1341,42,-95,4,4,Central,IA, 403524,5-May
+1342,42,-95,4,4,Central,IA, 403524,5-May
+1343,42,-95,4,4,Central,IA, 403524,5-May
+1344,42,-95,4,4,Central,IA, 403524,5-May
+1345,42,-95,4,4,Central,IA, 403524,5-May
+1346,42,-95,4,4,Central,IA, 403524,5-May
+1347,42,-95,4,4,Central,IA, 403524,5-May
+1348,42,-95,4,4,Central,IA, 403524,5-May
+1349,42,-95,4,4,Central,IA, 403524,5-May
+1350,42,-95,4,4,Central,IA, 403524,5-May
+1351,42,-95,4,4,Central,IA, 403524,5-May
+1352,42,-95,4,4,Central,IA, 403524,5-May
+1353,42,-95,4,4,Central,IA, 403525,5-May
+1354,42,-95,4,4,Central,IA, 403525,5-May
+1355,42,-95,4,4,Central,IA, 403525,5-May
+1356,42,-95,4,4,Central,IA, 403525,5-May
+1357,42,-95,4,4,Central,IA, 403525,5-May
+1358,42,-95,4,4,Central,IA, 403525,5-May
+1359,42,-95,4,4,Central,IA, 403526,5-May
+1360,42,-95,4,4,Central,IA, 403526,5-May
+1361,42,-95,4,4,Central,IA, 403526,5-May
+1362,42,-95,4,4,Central,IA, 403526,5-May
+1363,42,-95,4,4,Central,IA, 403526,5-May
+1364,42,-95,4,4,Central,IA, 403526,5-May
+1365,42,-95,4,4,Central,IA, 403527,5-May
+1366,42,-95,4,4,Central,IA, 403527,5-May
+1367,42,-95,4,4,Central,IA, 403527,5-May
+1368,42,-95,4,4,Central,IA, 403527,5-May
+1369,42,-95,4,4,Central,IA, 403527,5-May
+1370,42,-95,4,4,Central,IA, 403528,5-May
+1371,42,-95,4,4,Central,IA, 403528,5-May
+1372,42,-95,4,4,Central,IA, 403528,5-May
+1373,42,-95,4,4,Central,IA, 403528,5-May
+1374,42,-95,4,4,Central,IA, 403528,5-May
+1375,42,-95,4,4,Central,IA, 403528,5-May
+1376,42,-95,4,4,Central,IA, 403528,5-May
+1377,42,-95,4,4,Central,IA, 403528,5-May
+1378,42,-95,4,4,Central,IA, 403528,5-May
+1379,42,-95,4,4,Central,IA, 403528,5-May
+1380,42,-95,4,4,Central,IA, 403528,5-May
+1381,42,-95,4,4,Central,IA, 403528,5-May
+1382,42,-95,4,4,Central,IA, 403528,5-May
+1383,42,-95,4,4,Central,IA, 403528,5-May
+1384,42,-95,4,4,Central,IA, 403528,5-May
+1385,42,-95,4,4,Central,IA, 403528,5-May
+1386,42,-95,4,4,Central,IA, 403528,5-May
+1387,42,-95,4,4,Central,IA, 403528,5-May
+1388,42,-95,4,4,Central,IA, 403528,5-May
+1389,42,-95,4,4,Central,IA, 403528,5-May
+1390,42,-95,4,4,Central,IA, 403528,5-May
+1391,42,-95,4,4,Central,IA, 403528,5-May
+1392,42,-95,4,4,Central,IA, 403528,5-May
+1393,42,-95,4,4,Central,IA, 403528,5-May
+1394,42,-95,4,4,Central,IA, 403528,5-May
+1395,42,-95,4,4,Central,IA, 403528,5-May
+1396,42,-95,4,4,Central,IA, 403529,5-May
+1397,42,-95,4,4,Central,IA, 403529,5-May
+1398,42,-95,4,4,Central,IA, 403529,5-May
+1399,42,-95,4,4,Central,IA, 403529,5-May
+1400,42,-95,4,4,Central,IA, 403529,5-May
+1401,42,-95,4,4,Central,IA, 403529,5-May
+1402,42,-95,4,4,Central,IA, 403529,5-May
+1403,42,-95,4,4,Central,IA, 403529,5-May
+1404,42,-95,4,4,Central,IA, 403529,5-May
+1405,42,-95,4,4,Central,IA, 403529,5-May
+1406,42,-95,4,4,Central,IA, 403529,5-May
+1407,42,-95,4,4,Central,IA, 403529,5-May
+1408,42,-95,4,4,Central,IA, 403529,5-May
+1409,42,-95,4,4,Central,IA, 403529,5-May
+1410,42,-95,4,4,Central,IA, 403529,5-May
+1411,42,-95,4,4,Central,IA, 403529,5-May
+1412,42,-95,4,4,Central,IA, 403529,5-May
+1413,42,-95,4,4,Central,IA, 403529,5-May
+1414,42,-95,4,4,Central,IA, 403529,5-May
+1415,42,-95,4,4,Central,IA, 403529,5-May
+1416,42,-95,4,4,Central,IA, 403529,5-May
+1417,42,-95,4,4,Central,IA, 403529,5-May
+1418,42,-95,4,4,Central,IA, 403530,5-May
+1419,42,-95,4,4,Central,IA, 403530,5-May
+1420,42,-95,4,4,Central,IA, 403530,5-May
+1421,42,-95,4,4,Central,IA, 403530,5-May
+1422,42,-95,4,4,Central,IA, 403530,5-May
+1423,42,-95,4,4,Central,IA, 403530,5-May
+1424,42,-95,4,4,Central,IA, 403530,5-May
+1425,42,-95,4,4,Central,IA, 403530,5-May
+1426,42,-95,4,4,Central,IA, 403530,5-May
+1427,42,-95,4,4,Central,IA, 403530,5-May
+1428,42,-95,4,4,Central,IA, 403530,5-May
+1429,42,-95,4,4,Central,IA, 403530,5-May
+1430,42,-95,4,4,Central,IA, 403530,5-May
+1431,42,-95,4,4,Central,IA, 403530,5-May
+1432,42,-95,4,4,Central,IA, 403530,5-May
+1433,42,-95,4,4,Central,IA, 403530,5-May
+1434,42,-95,4,4,Central,IA, 403530,5-May
+1435,42,-95,4,4,Central,IA, 403531,5-May
+1436,42,-95,4,4,Central,IA, 403531,5-May
+1437,42,-95,4,4,Central,IA, 403531,5-May
+1438,42,-95,4,4,Central,IA, 403531,5-May
+1439,42,-95,4,4,Central,IA, 403531,5-May
+1440,42,-95,4,4,Central,IA, 403531,5-May
+1441,42,-95,4,4,Central,IA, 403531,5-May
+1442,42,-95,4,4,Central,IA, 403531,5-May
+1443,42,-95,4,4,Central,IA, 403531,5-May
+1444,42,-95,4,4,Central,IA, 403531,5-May
+1445,42,-95,4,4,Central,IA, 403531,5-May
+1446,42,-95,4,4,Central,IA, 403531,5-May
+1447,42,-95,4,4,Central,IA, 403531,5-May
+1448,42,-95,4,4,Central,IA, 403532,5-May
+1449,42,-95,4,4,Central,IA, 403532,5-May
+1450,42,-95,4,4,Central,IA, 403532,5-May
+1451,42,-95,4,4,Central,IA, 403532,5-May
+1452,42,-95,4,4,Central,IA, 403532,5-May
+1453,42,-95,4,4,Central,IA, 403532,5-May
+1454,42,-95,4,4,Central,IA, 403532,5-May
+1455,42,-95,4,4,Central,IA, 403532,5-May
+1456,42,-95,4,4,Central,IA, 403532,5-May
+1457,42,-95,4,4,Central,IA, 403532,5-May
+1458,42,-95,4,4,Central,IA, 403532,5-May
+1459,42,-95,4,4,Central,IA, 403532,5-May
+1460,42,-95,4,4,Central,IA, 403532,5-May
+1461,42,-95,4,4,Central,IA, 403532,5-May
+1462,42,-95,4,4,Central,IA, 403532,5-May
+1463,42,-95,4,4,Central,IA, 403532,5-May
+1464,42,-95,4,4,Central,IA, 403532,5-May
+1465,42,-95,4,4,Central,IA, 403532,5-May
+1466,42,-95,4,4,Central,IA, 403532,5-May
+1467,42,-95,4,4,Central,IA, 403532,5-May
+1468,42,-95,4,4,Central,IA, 403532,5-May
+1469,42,-95,4,4,Central,IA, 403532,5-May
+1470,42,-95,4,4,Central,IA, 403532,5-May
+1471,42,-95,4,4,Central,IA, 403532,5-May
+1472,42,-95,4,4,Central,IA, 403532,5-May
+1473,42,-95,4,4,Central,IA, 403532,5-May
+1474,42,-95,4,4,Central,IA, 403532,5-May
+1475,42,-95,4,4,Central,IA, 403532,5-May
+1476,42,-95,4,4,Central,IA, 403532,5-May
+1477,42,-95,4,4,Central,IA, 403532,5-May
+1478,42,-95,4,4,Central,IA, 403532,5-May
+1479,42,-95,4,4,Central,IA, 403533,5-May
+1480,42,-95,4,4,Central,IA, 403533,5-May
+1481,42,-95,4,4,Central,IA, 403533,5-May
+1482,42,-95,4,4,Central,IA, 403533,5-May
+1483,42,-95,4,4,Central,IA, 403533,5-May
+1484,42,-95,4,4,Central,IA, 403533,5-May
+1485,42,-95,4,4,Central,IA, 403533,5-May
+1486,42,-95,4,4,Central,IA, 403533,5-May
+1487,42,-95,4,4,Central,IA, 403533,5-May
+1488,42,-95,4,4,Central,IA, 403533,5-May
+1489,42,-95,4,4,Central,IA, 403533,5-May
+1490,42,-95,4,4,Central,IA, 403533,5-May
+1491,42,-95,4,4,Central,IA, 403533,5-May
+1492,42,-95,4,4,Central,IA, 403533,5-May
+1493,42,-95,4,4,Central,IA, 403533,5-May
+1494,42,-95,4,4,Central,IA, 403533,5-May
+1495,42,-95,4,4,Central,IA, 403533,5-May
+1496,42,-95,4,4,Central,IA, 403533,5-May
+1497,42,-95,4,4,Central,IA, 403533,5-May
+1498,42,-95,4,4,Central,IA, 403533,5-May
+1499,42,-95,4,4,Central,IA, 403533,5-May
+1500,42,-95,4,4,Central,IA, 403533,5-May
+1501,42,-95,4,4,Central,IA, 403533,5-May
+1502,42,-95,4,4,Central,IA, 403533,5-May
+1503,42,-95,4,4,Central,IA, 403533,5-May
+1504,42,-95,4,4,Central,IA, 403533,5-May
+1505,42,-95,4,4,Central,IA, 403533,5-May
+1506,42,-95,4,4,Central,IA, 403533,5-May
+1507,42,-95,4,4,Central,IA, 403533,5-May
+1508,42,-95,4,4,Central,IA, 403533,5-May
+1509,42,-95,4,4,Central,IA, 402762,5-May
+1510,42,-95,4,4,Central,IA, 403534,5-May
+1511,42,-95,4,4,Central,IA, 403534,5-May
+1512,42,-95,4,4,Central,IA, 403534,5-May
+1513,42,-95,4,4,Central,IA, 403534,5-May
+1514,42,-95,4,4,Central,IA, 403534,5-May
+1515,42,-95,4,4,Central,IA, 403534,5-May
+1516,42,-95,4,4,Central,IA, 403534,5-May
+1517,42,-95,4,4,Central,IA, 403534,5-May
+1518,42,-95,4,4,Central,IA, 403534,5-May
+1519,42,-95,4,4,Central,IA, 403534,5-May
+1520,42,-95,4,4,Central,IA, 403534,5-May
+1521,42,-95,4,4,Central,IA, 403534,5-May
+1522,42,-95,4,4,Central,IA, 403534,5-May
+1523,42,-95,4,4,Central,IA, 403534,5-May
+1524,42,-95,4,4,Central,IA, 403534,5-May
+1525,42,-95,4,4,Central,IA, 403534,5-May
+1526,42,-95,4,4,Central,IA, 403534,5-May
+1527,42,-95,4,4,Central,IA, 403534,5-May
+1528,42,-95,4,4,Central,IA, 403534,5-May
+1529,42,-95,4,4,Central,IA, 403534,5-May
+1530,42,-95,4,4,Central,IA, 403534,5-May
+1531,42,-95,4,4,Central,IA, 403534,5-May
+1532,42,-95,4,4,Central,IA, 403534,5-May
+1533,42,-95,4,4,Central,IA, 403535,5-May
+1534,42,-95,4,4,Central,IA, 403535,5-May
+1535,42,-95,4,4,Central,IA, 403535,5-May
+1536,42,-95,4,4,Central,IA, 403535,5-May
+1537,42,-95,4,4,Central,IA, 403535,5-May
+1538,42,-95,4,4,Central,IA, 403535,5-May
+1539,42,-95,4,4,Central,IA, 403535,5-May
+1540,42,-95,4,4,Central,IA, 403535,5-May
+1541,42,-95,4,4,Central,IA, 403535,5-May
+1542,42,-95,4,4,Central,IA, 403535,5-May
+1543,42,-95,4,4,Central,IA, 403535,5-May
+1544,42,-95,4,4,Central,IA, 403535,5-May
+1545,42,-95,4,4,Central,IA, 403535,5-May
+1546,42,-95,4,4,Central,IA, 403535,5-May
+1547,42,-95,4,4,Central,IA, 403535,5-May
+1548,42,-95,4,4,Central,IA, 403535,5-May
+1549,42,-95,4,4,Central,IA, 403535,5-May
+1550,42,-95,4,4,Central,IA, 403535,5-May
+1551,42,-95,4,4,Central,IA, 403535,5-May
+1552,42,-95,4,4,Central,IA, 403535,5-May
+1553,42,-95,4,4,Central,IA, 403535,5-May
+1554,42,-95,4,4,Central,IA, 403535,5-May
+1555,42,-95,4,4,Central,IA, 403535,5-May
+1556,42,-95,4,4,Central,IA, 403536,5-May
+1557,42,-95,4,4,Central,IA, 403536,5-May
+1558,42,-95,4,4,Central,IA, 403536,5-May
+1559,42,-95,4,4,Central,IA, 403536,5-May
+1560,42,-95,4,4,Central,IA, 403536,5-May
+1561,42,-95,4,4,Central,IA, 403536,5-May
+1562,42,-95,4,4,Central,IA, 403536,5-May
+1563,42,-95,4,4,Central,IA, 403536,5-May
+1564,42,-95,4,4,Central,IA, 403536,5-May
+1565,42,-95,4,4,Central,IA, 403536,5-May
+1566,42,-95,4,4,Central,IA, 403536,5-May
+1567,42,-95,4,4,Central,IA, 403536,5-May
+1568,42,-95,4,4,Central,IA, 403536,5-May
+1569,42,-95,4,4,Central,IA, 403536,5-May
+1570,42,-95,4,4,Central,IA, 403536,5-May
+1571,42,-95,4,4,Central,IA, 403536,5-May
+1572,42,-95,4,4,Central,IA, 403536,5-May
+1573,42,-95,4,4,Central,IA, 403536,5-May
+1574,42,-95,4,4,Central,IA, 403536,5-May
+1575,42,-95,4,4,Central,IA, 403536,5-May
+1576,42,-95,4,4,Central,IA, 403536,5-May
+1577,42,-95,4,4,Central,IA, 403536,5-May
+1578,42,-95,4,4,Central,IA, 403537,5-May
+1579,42,-95,4,4,Central,IA, 403537,5-May
+1580,42,-95,4,4,Central,IA, 403537,5-May
+1581,42,-95,4,4,Central,IA, 403537,5-May
+1582,42,-95,4,4,Central,IA, 403537,5-May
+1583,42,-95,4,4,Central,IA, 403537,5-May
+1584,42,-95,4,4,Central,IA, 403537,5-May
+1585,42,-95,4,4,Central,IA, 403537,5-May
+1586,42,-95,4,4,Central,IA, 403537,5-May
+1587,42,-95,4,4,Central,IA, 403537,5-May
+1588,42,-95,4,4,Central,IA, 403537,5-May
+1589,42,-95,4,4,Central,IA, 403537,5-May
+1590,42,-95,4,4,Central,IA, 403537,5-May
+1591,42,-95,4,4,Central,IA, 403537,5-May
+1592,42,-95,4,4,Central,IA, 403537,5-May
+1593,42,-95,4,4,Central,IA, 403537,5-May
+1594,42,-95,4,4,Central,IA, 403537,5-May
+1595,42,-95,4,4,Central,IA, 403537,5-May
+1596,42,-95,4,4,Central,IA, 403537,5-May
+1597,42,-95,4,4,Central,IA, 403537,5-May
+1598,42,-95,4,4,Central,IA, 403537,5-May
+1599,42,-95,4,4,Central,IA, 403538,5-May
+1600,42,-95,4,4,Central,IA, 403538,5-May
+1601,42,-95,4,4,Central,IA, 403538,5-May
+1602,42,-95,4,4,Central,IA, 403538,5-May
+1603,42,-95,4,4,Central,IA, 403538,5-May
+1604,42,-95,4,4,Central,IA, 403538,5-May
+1605,42,-95,4,4,Central,IA, 403538,5-May
+1606,42,-95,4,4,Central,IA, 403538,5-May
+1607,42,-95,4,4,Central,IA, 403538,5-May
+1608,42,-95,4,4,Central,IA, 403538,5-May
+1609,42,-95,4,4,Central,IA, 403538,5-May
+1610,42,-95,4,4,Central,IA, 403538,5-May
+1611,42,-95,4,4,Central,IA, 403538,5-May
+1612,42,-95,4,4,Central,IA, 403538,5-May
+1613,42,-95,4,4,Central,IA, 403538,5-May
+1614,42,-95,4,4,Central,IA, 403538,5-May
+1615,42,-95,4,4,Central,IA, 403538,5-May
+1616,42,-95,4,4,Central,IA, 403538,5-May
+1617,42,-95,4,4,Central,IA, 403538,5-May
+1618,42,-95,4,4,Central,IA, 403538,5-May
+1619,42,-95,4,4,Central,IA, 403538,5-May
+1620,42,-95,4,4,Central,IA, 403538,5-May
+1621,42,-95,4,4,Central,IA, 403538,5-May
+1622,42,-95,4,4,Central,IA, 403538,5-May
+1623,42,-95,4,4,Central,IA, 403538,5-May
+1624,42,-95,4,4,Central,IA, 403538,5-May
+1625,42,-95,4,4,Central,IA, 403538,5-May
+1626,42,-95,4,4,Central,IA, 403538,5-May
+1627,42,-95,4,4,Central,IA, 403538,5-May
+1628,42,-95,4,4,Central,IA, 403538,5-May
+1629,42,-95,4,4,Central,IA, 403538,5-May
+1630,42,-95,4,4,Central,IA, 403538,5-May
+1631,42,-95,4,4,Central,IA, 403538,5-May
+1632,42,-95,4,4,Central,IA, 403539,5-May
+1633,42,-95,4,4,Central,IA, 403539,5-May
+1634,42,-95,4,4,Central,IA, 403539,5-May
+1635,42,-95,4,4,Central,IA, 403539,5-May
+1636,42,-95,4,4,Central,IA, 403539,5-May
+1637,42,-95,4,4,Central,IA, 403540,5-May
+1638,42,-95,4,4,Central,IA, 403540,5-May
+1639,42,-95,4,4,Central,IA, 403540,5-May
+1640,42,-95,4,4,Central,IA, 403540,5-May
+1641,42,-95,4,4,Central,IA, 403540,5-May
+1642,42,-95,4,4,Central,IA, 403540,5-May
+1643,42,-95,4,4,Central,IA, 403540,5-May
+1644,42,-95,4,4,Central,IA, 403540,5-May
+1645,42,-95,4,4,Central,IA, 403540,5-May
+1646,42,-95,4,4,Central,IA, 403540,5-May
+1647,42,-95,4,4,Central,IA, 403540,5-May
+1648,42,-95,4,4,Central,IA, 403540,5-May
+1649,42,-95,4,4,Central,IA, 403540,5-May
+1650,42,-95,4,4,Central,IA, 403540,5-May
+1651,42,-95,4,4,Central,IA, 403540,5-May
+1652,42,-95,4,4,Central,IA, 403540,5-May
+1653,42,-95,4,4,Central,IA, 403540,5-May
+1654,42,-95,4,4,Central,IA, 403540,5-May
+1655,42,-95,4,4,Central,IA, 403540,5-May
+1656,42,-95,4,4,Central,IA, 403540,5-May
+1657,42,-95,4,4,Central,IA, 403540,5-May
+1658,42,-95,4,4,Central,IA, 403540,5-May
+1659,42,-95,4,4,Central,IA, 403541,5-May
+1660,42,-95,4,4,Central,IA, 403541,5-May
+1661,42,-95,4,4,Central,IA, 403541,5-May
+1662,42,-95,4,4,Central,IA, 403541,5-May
+1663,42,-95,4,4,Central,IA, 403541,5-May
+1664,42,-95,4,4,Central,IA, 403541,5-May
+1665,42,-95,4,4,Central,IA, 403541,5-May
+1666,42,-95,4,4,Central,IA, 403541,5-May
+1667,42,-95,4,4,Central,IA, 403541,5-May
+1668,42,-95,4,4,Central,IA, 403541,5-May
+1669,42,-95,4,4,Central,IA, 403541,5-May
+1670,42,-95,4,4,Central,IA, 403541,5-May
+1671,42,-95,4,4,Central,IA, 403541,5-May
+1672,42,-95,4,4,Central,IA, 403541,5-May
+1673,42,-95,4,4,Central,IA, 403541,5-May
+1674,42,-95,4,4,Central,IA, 403541,5-May
+1675,42,-95,4,4,Central,IA, 403542,5-May
+1676,42,-95,4,4,Central,IA, 403542,5-May
+1677,42,-95,4,4,Central,IA, 403542,5-May
+1678,42,-95,4,4,Central,IA, 403542,5-May
+1679,42,-95,4,4,Central,IA, 403542,5-May
+1680,42,-95,4,4,Central,IA, 403542,5-May
+1681,42,-95,4,4,Central,IA, 403542,5-May
+1682,42,-95,4,4,Central,IA, 403542,5-May
+1683,42,-95,4,4,Central,IA, 403542,5-May
+1684,42,-95,4,4,Central,IA, 403542,5-May
+1685,42,-95,4,4,Central,IA, 403542,5-May
+1686,42,-95,4,4,Central,IA, 403542,5-May
+1687,42,-95,4,4,Central,IA, 403542,5-May
+1688,42,-95,4,4,Central,IA, 403542,5-May
+1689,42,-95,4,4,Central,IA, 403542,5-May
+1690,42,-95,4,4,Central,IA, 403542,5-May
+1691,42,-95,4,4,Central,IA, 403542,5-May
+1692,42,-95,4,4,Central,IA, 403542,5-May
+1693,42,-95,4,4,Central,IA, 403542,5-May
+1694,42,-95,4,4,Central,IA, 403543,5-May
+1695,42,-95,4,4,Central,IA, 403543,5-May
+1696,42,-95,4,4,Central,IA, 403543,5-May
+1697,42,-95,4,4,Central,IA, 403543,5-May
+1698,42,-95,4,4,Central,IA, 403543,5-May
+1699,42,-95,4,4,Central,IA, 403543,5-May
+1700,42,-95,4,4,Central,IA, 403543,5-May
+1701,42,-95,4,4,Central,IA, 403543,5-May
+1702,42,-95,4,4,Central,IA, 403543,5-May
+1703,42,-95,4,4,Central,IA, 403543,5-May
+1704,42,-95,4,4,Central,IA, 403543,5-May
+1705,42,-95,4,4,Central,IA, 403543,5-May
+1706,42,-95,4,4,Central,IA, 403543,5-May
+1707,42,-95,4,4,Central,IA, 403543,5-May
+1708,42,-95,4,4,Central,IA, 403543,5-May
+1709,42,-95,4,4,Central,IA, 403543,5-May
+1710,42,-95,4,4,Central,IA, 403543,5-May
+1711,42,-95,4,4,Central,IA, 403543,5-May
+1712,42,-95,4,4,Central,IA, 403543,5-May
+1713,42,-95,4,4,Central,IA, 403543,5-May
+1714,42,-95,4,4,Central,IA, 403543,5-May
+1715,42,-95,4,4,Central,IA, 403543,5-May
+1716,42,-95,4,4,Central,IA, 403543,5-May
+1717,42,-95,4,4,Central,IA, 403543,5-May
+1718,42,-95,4,4,Central,IA, 403543,5-May
+1719,42,-95,4,4,Central,IA, 403543,5-May
+1720,42,-95,4,4,Central,IA, 403543,5-May
+1721,42,-95,4,4,Central,IA, 403543,5-May
+1722,42,-95,4,4,Central,IA, 402776,5-May
+1723,42,-95,4,4,Central,IA, 402776,5-May
+1724,42,-95,4,4,Central,IA, 403544,5-May
+1725,42,-95,4,4,Central,IA, 403544,5-May
+1726,42,-95,4,4,Central,IA, 403544,5-May
+1727,42,-95,4,4,Central,IA, 403544,5-May
+1728,42,-95,4,4,Central,IA, 403544,5-May
+1729,42,-95,4,4,Central,IA, 403544,5-May
+1730,42,-95,4,4,Central,IA, 403544,5-May
+1731,42,-95,4,4,Central,IA, 403544,5-May
+1732,42,-95,4,4,Central,IA, 403544,5-May
+1733,42,-95,4,4,Central,IA, 403544,5-May
+1734,42,-95,4,4,Central,IA, 403544,5-May
+1735,42,-95,4,4,Central,IA, 403544,5-May
+1736,42,-95,4,4,Central,IA, 403544,5-May
+1737,42,-95,4,4,Central,IA, 403544,5-May
+1738,42,-95,4,4,Central,IA, 403544,5-May
+1739,42,-95,4,4,Central,IA, 403544,5-May
+1740,42,-95,4,4,Central,IA, 403544,5-May
+1741,42,-95,4,4,Central,IA, 403544,5-May
+1742,42,-95,4,4,Central,IA, 403544,5-May
+1743,42,-95,4,4,Central,IA, 403544,5-May
+1744,42,-95,4,4,Central,IA, 403544,5-May
+1745,42,-95,4,4,Central,IA, 403544,5-May
+1746,42,-95,4,4,Central,IA, 403544,5-May
+1747,42,-95,4,4,Central,IA, 403544,5-May
+1748,42,-95,4,4,Central,IA, 403544,5-May
+1749,42,-95,4,4,Central,IA, 403544,5-May
+1750,42,-95,4,4,Central,IA, 403544,5-May
+1751,42,-95,4,4,Central,IA, 403544,5-May
+1752,42,-95,4,4,Central,IA, 403544,5-May
+1753,42,-95,4,4,Central,IA, 403544,5-May
+1754,42,-95,4,4,Central,IA, 403544,5-May
+1755,42,-95,4,4,Central,IA, 403544,5-May
+1756,42,-95,4,4,Central,IA, 403544,5-May
+1757,42,-95,4,4,Central,IA, 403544,5-May
+1758,42,-95,4,4,Central,IA, 403544,5-May
+1759,42,-95,4,4,Central,IA, 403544,5-May
+1760,42,-95,4,4,Central,IA, 403545,5-May
+1761,42,-95,4,4,Central,IA, 403545,5-May
+1762,42,-95,4,4,Central,IA, 403545,5-May
+1763,42,-95,4,4,Central,IA, 403545,5-May
+1764,42,-95,4,4,Central,IA, 403545,5-May
+1765,42,-95,4,4,Central,IA, 403545,5-May
+1766,42,-95,4,4,Central,IA, 403545,5-May
+1767,42,-95,4,4,Central,IA, 403545,5-May
+1768,42,-95,4,4,Central,IA, 403545,5-May
+1769,42,-95,4,4,Central,IA, 403545,5-May
+1770,42,-95,4,4,Central,IA, 403545,5-May
+1771,42,-95,4,4,Central,IA, 403545,5-May
+1772,42,-95,4,4,Central,IA, 403545,5-May
+1773,42,-95,4,4,Central,IA, 403545,5-May
+1774,42,-95,4,4,Central,IA, 403545,5-May
+1775,42,-95,4,4,Central,IA, 403545,5-May
+1776,42,-95,4,4,Central,IA, 403545,5-May
+1777,42,-95,4,4,Central,IA, 403545,5-May
+1778,42,-95,4,4,Central,IA, 403545,5-May
+1779,42,-95,4,4,Central,IA, 403545,5-May
+1780,42,-95,4,4,Central,IA, 403545,5-May
+1781,42,-95,4,4,Central,IA, 403545,5-May
+1782,42,-95,4,4,Central,IA, 403545,5-May
+1783,42,-95,4,4,Central,IA, 403545,5-May
+1784,42,-95,4,4,Central,IA, 403546,5-May
+1785,42,-95,4,4,Central,IA, 403546,5-May
+1786,42,-95,4,4,Central,IA, 403546,5-May
+1787,42,-95,4,4,Central,IA, 403546,5-May
+1788,42,-95,4,4,Central,IA, 403546,5-May
+1789,42,-95,4,4,Central,IA, 403546,5-May
+1790,42,-95,4,4,Central,IA, 403546,5-May
+1791,42,-95,4,4,Central,IA, 403546,5-May
+1792,42,-95,4,4,Central,IA, 403546,5-May
+1793,42,-95,4,4,Central,IA, 403546,5-May
+1794,42,-95,4,4,Central,IA, 403546,5-May
+1795,42,-95,4,4,Central,IA, 403546,5-May
+1796,42,-95,4,4,Central,IA, 403546,5-May
+1797,42,-95,4,4,Central,IA, 403546,5-May
+1798,42,-95,4,4,Central,IA, 403546,5-May
+1799,42,-95,4,4,Central,IA, 403546,5-May
+1800,42,-95,4,4,Central,IA, 403546,5-May
+1801,42,-95,4,4,Central,IA, 403546,5-May
+1802,42,-95,4,4,Central,IA, 403546,5-May
+1803,42,-95,4,4,Central,IA, 403546,5-May
+1804,42,-95,4,4,Central,IA, 403546,5-May
+1805,42,-95,4,4,Central,IA, 403546,5-May
+1806,42,-95,4,4,Central,IA, 403546,5-May
+1807,42,-95,4,4,Central,IA, 403546,5-May
+1808,42,-95,4,4,Central,IA, 403546,5-May
+1809,42,-95,4,4,Central,IA, 403546,5-May
+1810,42,-95,4,4,Central,IA, 403546,5-May
+1811,42,-95,4,4,Central,IA, 403546,5-May
+1812,42,-95,4,4,Central,IA, 403546,5-May
+1813,42,-95,4,4,Central,IA, 403546,5-May
+1814,42,-95,4,4,Central,IA, 403547,5-May
+1815,42,-95,4,4,Central,IA, 403547,5-May
+1816,42,-95,4,4,Central,IA, 403547,5-May
+1817,42,-95,4,4,Central,IA, 403547,5-May
+1818,42,-95,4,4,Central,IA, 403547,5-May
+1819,42,-95,4,4,Central,IA, 403547,5-May
+1820,42,-95,4,4,Central,IA, 403547,5-May
+1821,42,-95,4,4,Central,IA, 403547,5-May
+1822,42,-95,4,4,Central,IA, 403547,5-May
+1823,42,-95,4,4,Central,IA, 403547,5-May
+1824,42,-95,4,4,Central,IA, 403547,5-May
+1825,42,-95,4,4,Central,IA, 403547,5-May
+1826,42,-95,4,4,Central,IA, 403547,5-May
+1827,42,-95,4,4,Central,IA, 403547,5-May
+1828,42,-95,4,4,Central,IA, 403547,5-May
+1829,42,-95,4,4,Central,IA, 403547,5-May
+1830,42,-95,4,4,Central,IA, 403547,5-May
+1831,42,-95,4,4,Central,IA, 403547,5-May
+1832,42,-95,4,4,Central,IA, 403547,5-May
+1833,42,-95,4,4,Central,IA, 403547,5-May
+1834,42,-95,4,4,Central,IA, 403547,5-May
+1835,42,-95,4,4,Central,IA, 403547,5-May
+1836,42,-95,4,4,Central,IA, 403547,5-May
+1837,42,-95,4,4,Central,IA, 403547,5-May
+1838,42,-95,4,4,Central,IA, 403547,5-May
+1839,42,-95,4,4,Central,IA, 403547,5-May
+1840,42,-95,4,4,Central,IA, 403547,5-May
+1841,42,-95,4,4,Central,IA, 403547,5-May
+1842,42,-95,4,4,Central,IA, 403547,5-May
+1843,42,-95,4,4,Central,IA, 403547,5-May
+1844,42,-95,4,4,Central,IA, 403547,5-May
+1845,42,-95,4,4,Central,IA, 403547,5-May
+1846,42,-95,4,4,Central,IA, 403547,5-May
+1847,42,-95,4,4,Central,IA, 403547,5-May
+1848,42,-95,4,4,Central,IA, 403547,5-May
+1849,42,-95,4,4,Central,IA, 403547,5-May
+1850,42,-95,4,4,Central,IA, 403547,5-May
+1851,42,-95,4,4,Central,IA, 403547,5-May
+1852,42,-95,4,4,Central,IA, 403547,5-May
+1853,42,-95,4,4,Central,IA, 403547,5-May
+1854,42,-95,4,4,Central,IA, 403548,5-May
+1855,42,-95,4,4,Central,IA, 403548,5-May
+1856,42,-95,4,4,Central,IA, 403548,5-May
+1857,42,-95,4,4,Central,IA, 403548,5-May
+1858,42,-95,4,4,Central,IA, 403548,5-May
+1859,42,-95,4,4,Central,IA, 403548,5-May
+1860,42,-95,4,4,Central,IA, 403548,5-May
+1861,42,-95,4,4,Central,IA, 403548,5-May
+1862,42,-95,4,4,Central,IA, 403548,5-May
+1863,42,-95,4,4,Central,IA, 403548,5-May
+1864,42,-95,4,4,Central,IA, 403548,5-May
+1865,42,-95,4,4,Central,IA, 403548,5-May
+1866,42,-95,4,4,Central,IA, 403548,5-May
+1867,42,-95,4,4,Central,IA, 403548,5-May
+1868,42,-95,4,4,Central,IA, 403549,5-May
+1869,42,-95,4,4,Central,IA, 403549,5-May
+1870,42,-95,4,4,Central,IA, 403549,5-May
+1871,42,-95,4,4,Central,IA, 403549,5-May
+1872,42,-95,4,4,Central,IA, 403549,5-May
+1873,42,-95,4,4,Central,IA, 403549,5-May
+1874,42,-95,4,4,Central,IA, 403549,5-May
+1875,42,-95,4,4,Central,IA, 403549,5-May
+1876,42,-95,4,4,Central,IA, 403549,5-May
+1877,42,-95,4,4,Central,IA, 403549,5-May
+1878,42,-95,4,4,Central,IA, 403549,5-May
+1879,42,-95,4,4,Central,IA, 403549,5-May
+1880,42,-95,4,4,Central,IA, 403549,5-May
+1881,42,-95,4,4,Central,IA, 403549,5-May
+1882,42,-95,4,4,Central,IA, 403549,5-May
+1883,42,-95,4,4,Central,IA, 403549,5-May
+1884,42,-95,4,4,Central,IA, 403549,5-May
+1885,42,-95,4,4,Central,IA, 403549,5-May
+1886,42,-95,4,4,Central,IA, 403549,5-May
+1887,42,-95,4,4,Central,IA, 403549,5-May
+1888,42,-95,4,4,Central,IA, 403549,5-May
+1889,42,-95,4,4,Central,IA, 403549,5-May
+1890,42,-95,4,4,Central,IA, 403549,5-May
+1891,42,-95,4,4,Central,IA, 403549,5-May
+1892,42,-95,4,4,Central,IA, 403549,5-May
+1893,42,-95,4,4,Central,IA, 403549,5-May
+1894,42,-95,4,4,Central,IA, 403550,5-May
+1895,42,-95,4,4,Central,IA, 403550,5-May
+1896,42,-95,4,4,Central,IA, 403550,5-May
+1897,42,-95,4,4,Central,IA, 403550,5-May
+1898,42,-95,4,4,Central,IA, 403550,5-May
+1899,42,-95,4,4,Central,IA, 403550,5-May
+1900,42,-95,4,4,Central,IA, 403550,5-May
+1901,42,-95,4,4,Central,IA, 403550,5-May
+1902,42,-95,4,4,Central,IA, 403550,5-May
+1903,42,-95,4,4,Central,IA, 403550,5-May
+1904,42,-95,4,4,Central,IA, 403550,5-May
+1905,42,-95,4,4,Central,IA, 403550,5-May
+1906,42,-95,4,4,Central,IA, 403550,5-May
+1907,42,-95,4,4,Central,IA, 403550,5-May
+1908,42,-95,4,4,Central,IA, 403550,5-May
+1909,42,-95,4,4,Central,IA, 403550,5-May
+1910,42,-95,4,4,Central,IA, 403550,5-May
+1911,42,-95,4,4,Central,IA, 403550,5-May
+1912,42,-95,4,4,Central,IA, 403550,5-May
+1913,42,-95,4,4,Central,IA, 403550,5-May
+1914,42,-95,4,4,Central,IA, 403550,5-May
+1915,42,-95,4,4,Central,IA, 403550,5-May
+1916,42,-95,4,4,Central,IA, 403550,5-May
+1917,42,-95,4,4,Central,IA, 403550,5-May
+1918,42,-95,4,4,Central,IA, 403550,5-May
+1919,42,-95,4,4,Central,IA, 403550,5-May
+1920,42,-95,4,4,Central,IA, 403550,5-May
+1921,42,-95,4,4,Central,IA, 403550,5-May
+1922,42,-95,4,4,Central,IA, 403550,5-May
+1923,42,-95,4,4,Central,IA, 403550,5-May
+1924,42,-95,4,4,Central,IA, 403550,5-May
+1925,42,-95,4,4,Central,IA, 403550,5-May
+1926,42,-95,4,4,Central,IA, 403550,5-May
+1927,42,-95,4,4,Central,IA, 403550,5-May
+1928,42,-95,4,4,Central,IA, 403550,5-May
+1929,42,-95,4,4,Central,IA, 403550,5-May
+1930,42,-95,4,4,Central,IA, 403550,5-May
+1931,42,-95,4,4,Central,IA, 403551,5-May
+1932,42,-95,4,4,Central,IA, 403551,5-May
+1933,42,-95,4,4,Central,IA, 403551,5-May
+1934,42,-95,4,4,Central,IA, 403551,5-May
+1935,42,-95,4,4,Central,IA, 403551,5-May
+1936,42,-95,4,4,Central,IA, 403551,5-May
+1937,42,-95,4,4,Central,IA, 403551,5-May
+1938,42,-95,4,4,Central,IA, 403551,5-May
+1939,42,-95,4,4,Central,IA, 403551,5-May
+1940,42,-95,4,4,Central,IA, 403551,5-May
+1941,42,-95,4,4,Central,IA, 403551,5-May
+1942,42,-95,4,4,Central,IA, 403551,5-May
+1943,42,-95,4,4,Central,IA, 403551,5-May
+1944,42,-95,4,4,Central,IA, 403551,5-May
+1945,42,-95,4,4,Central,IA, 403551,5-May
+1946,42,-95,4,4,Central,IA, 403551,5-May
+1947,42,-95,4,4,Central,IA, 403551,5-May
+1948,42,-95,4,4,Central,IA, 403551,5-May
+1949,42,-95,4,4,Central,IA, 403551,5-May
+1950,42,-95,4,4,Central,IA, 403551,5-May
+1951,42,-95,4,4,Central,IA, 403551,5-May
+1952,42,-95,4,4,Central,IA, 403551,5-May
+1953,42,-95,4,4,Central,IA, 403551,5-May
+1954,42,-95,4,4,Central,IA, 403551,5-May
+1955,42,-95,4,4,Central,IA, 403551,5-May
+1956,42,-95,4,4,Central,IA, 403551,5-May
+1957,42,-95,4,4,Central,IA, 403551,5-May
+1958,42,-95,4,4,Central,IA, 403551,5-May
+1959,42,-95,4,4,Central,IA, 403551,5-May
+1960,42,-95,4,4,Central,IA, 403551,5-May
+1961,42,-95,4,4,Central,IA, 403551,5-May
+1962,42,-95,4,4,Central,IA, 403551,5-May
+1963,42,-95,4,4,Central,IA, 403552,5-May
+1964,42,-95,4,4,Central,IA, 403552,5-May
+1965,42,-95,4,4,Central,IA, 403552,5-May
+1966,42,-95,4,4,Central,IA, 403552,5-May
+1967,42,-95,4,4,Central,IA, 403552,5-May
+1968,42,-95,4,4,Central,IA, 403552,5-May
+1969,42,-95,4,4,Central,IA, 403552,5-May
+1970,42,-95,4,4,Central,IA, 403552,5-May
+1971,42,-95,4,4,Central,IA, 403552,5-May
+1972,42,-95,4,4,Central,IA, 403552,5-May
+1973,42,-95,4,4,Central,IA, 403552,5-May
+1974,42,-95,4,4,Central,IA, 403552,5-May
+1975,42,-95,4,4,Central,IA, 403552,5-May
+1976,42,-95,4,4,Central,IA, 403552,5-May
+1977,42,-95,4,4,Central,IA, 403552,5-May
+1978,42,-95,4,4,Central,IA, 403552,5-May
+1979,42,-95,4,4,Central,IA, 403552,5-May
+1980,42,-95,4,4,Central,IA, 403553,5-May
+1981,42,-95,4,4,Central,IA, 403553,5-May
+1982,42,-95,4,4,Central,IA, 403553,5-May
+1983,42,-95,4,4,Central,IA, 403553,5-May
+1984,42,-95,4,4,Central,IA, 403553,5-May
+1985,42,-95,4,4,Central,IA, 403553,5-May
+1986,42,-95,4,4,Central,IA, 403553,5-May
+1987,42,-95,4,4,Central,IA, 403553,5-May
+1988,42,-95,4,4,Central,IA, 403553,5-May
+1989,42,-95,4,4,Central,IA, 403553,5-May
+1990,42,-95,4,4,Central,IA, 403553,5-May
+1991,42,-95,4,4,Central,IA, 403553,5-May
+1992,42,-95,4,4,Central,IA, 403553,5-May
+1993,42,-95,4,4,Central,IA, 403553,5-May
+1994,42,-95,4,4,Central,IA, 403553,5-May
+1995,42,-95,4,4,Central,IA, 403553,5-May
+1996,42,-95,4,4,Central,IA, 403553,5-May
+1997,42,-95,4,4,Central,IA, 403553,5-May
+1998,42,-95,4,4,Central,IA, 403553,5-May
+1999,42,-95,4,4,Central,IA, 403553,5-May
+2000,42,-95,4,4,Central,IA, 403553,5-May
+2001,42,-95,4,4,Central,IA, 402780,5-May
+2002,42,-95,4,4,Central,IA, 403554,5-May
+2003,42,-95,4,4,Central,IA, 403554,5-May
+2004,42,-95,4,4,Central,IA, 403554,5-May
+2005,42,-95,4,4,Central,IA, 403554,5-May
+2006,42,-95,4,4,Central,IA, 403554,5-May
+2007,42,-95,4,4,Central,IA, 403554,5-May
+2008,42,-95,4,4,Central,IA, 403554,5-May
+2009,42,-95,4,4,Central,IA, 403554,5-May
+2010,42,-95,4,4,Central,IA, 403554,5-May
+2011,42,-95,4,4,Central,IA, 403554,5-May
+2012,42,-95,4,4,Central,IA, 403554,5-May
+2013,42,-95,4,4,Central,IA, 403554,5-May
+2014,42,-95,4,4,Central,IA, 403554,5-May
+2015,42,-95,4,4,Central,IA, 403554,5-May
+2016,42,-95,4,4,Central,IA, 403554,5-May
+2017,42,-95,4,4,Central,IA, 403554,5-May
+2018,42,-95,4,4,Central,IA, 403554,5-May
+2019,42,-95,4,4,Central,IA, 403554,5-May
+2020,42,-95,4,4,Central,IA, 403554,5-May
+2021,42,-95,4,4,Central,IA, 403554,5-May
+2022,42,-95,4,4,Central,IA, 403554,5-May
+2023,42,-95,4,4,Central,IA, 403554,5-May
+2024,42,-95,4,4,Central,IA, 403554,5-May
+2025,42,-95,4,4,Central,IA, 403554,5-May
+2026,42,-95,4,4,Central,IA, 403554,5-May
+2027,42,-95,4,4,Central,IA, 403554,5-May
+2028,42,-95,4,4,Central,IA, 403554,5-May
+2029,42,-95,4,4,Central,IA, 403554,5-May
+2030,42,-95,4,4,Central,IA, 403554,5-May
+2031,42,-95,4,4,Central,IA, 403554,5-May
+2032,42,-95,4,4,Central,IA, 403554,5-May
+2033,42,-95,4,4,Central,IA, 403554,5-May
+2034,42,-95,4,4,Central,IA, 403554,5-May
+2035,42,-95,4,4,Central,IA, 403554,5-May
+2036,42,-95,4,4,Central,IA, 403554,5-May
+2037,42,-95,4,4,Central,IA, 403555,5-May
+2038,42,-95,4,4,Central,IA, 403555,5-May
+2039,42,-95,4,4,Central,IA, 403555,5-May
+2040,42,-95,4,4,Central,IA, 403555,5-May
+2041,42,-95,4,4,Central,IA, 403555,5-May
+2042,42,-95,4,4,Central,IA, 403555,5-May
+2043,42,-95,4,4,Central,IA, 403555,5-May
+2044,42,-95,4,4,Central,IA, 403555,5-May
+2045,42,-95,4,4,Central,IA, 403555,5-May
+2046,42,-95,4,4,Central,IA, 403555,5-May
+2047,42,-95,4,4,Central,IA, 403555,5-May
+2048,42,-95,4,4,Central,IA, 403555,5-May
+2049,42,-95,4,4,Central,IA, 403555,5-May
+2050,42,-95,4,4,Central,IA, 403555,5-May
+2051,42,-95,4,4,Central,IA, 403555,5-May
+2052,42,-95,4,4,Central,IA, 403555,5-May
+2053,42,-95,4,4,Central,IA, 403555,5-May
+2054,42,-95,4,4,Central,IA, 403555,5-May
+2055,42,-95,4,4,Central,IA, 403555,5-May
+2056,42,-95,4,4,Central,IA, 403555,5-May
+2057,42,-95,4,4,Central,IA, 403555,5-May
+2058,42,-95,4,4,Central,IA, 403555,5-May
+2059,42,-95,4,4,Central,IA, 403555,5-May
+2060,42,-95,4,4,Central,IA, 403555,5-May
+2061,42,-95,4,4,Central,IA, 403555,5-May
+2062,42,-95,4,4,Central,IA, 403555,5-May
+2063,42,-95,4,4,Central,IA, 403555,5-May
+2064,42,-95,4,4,Central,IA, 403555,5-May
+2065,42,-95,4,4,Central,IA, 403555,5-May
+2066,42,-95,4,4,Central,IA, 403555,5-May
+2067,42,-95,4,4,Central,IA, 403555,5-May
+2068,42,-95,4,4,Central,IA, 403555,5-May
+2069,42,-95,4,4,Central,IA, 403555,5-May
+2070,42,-95,4,4,Central,IA, 403556,5-May
+2071,42,-95,4,4,Central,IA, 403556,5-May
+2072,42,-95,4,4,Central,IA, 403556,5-May
+2073,42,-95,4,4,Central,IA, 403556,5-May
+2074,42,-95,4,4,Central,IA, 403556,5-May
+2075,42,-95,4,4,Central,IA, 403556,5-May
+2076,42,-95,4,4,Central,IA, 403556,5-May
+2077,42,-95,4,4,Central,IA, 403556,5-May
+2078,42,-95,4,4,Central,IA, 403556,5-May
+2079,42,-95,4,4,Central,IA, 403556,5-May
+2080,42,-95,4,4,Central,IA, 403556,5-May
+2081,42,-95,4,4,Central,IA, 403556,5-May
+2082,42,-95,4,4,Central,IA, 403556,5-May
+2083,42,-95,4,4,Central,IA, 403556,5-May
+2084,42,-95,4,4,Central,IA, 403556,5-May
+2085,42,-95,4,4,Central,IA, 403556,5-May
+2086,42,-95,4,4,Central,IA, 403556,5-May
+2087,42,-95,4,4,Central,IA, 403556,5-May
+2088,42,-95,4,4,Central,IA, 403556,5-May
+2089,42,-95,4,4,Central,IA, 403556,5-May
+2090,42,-95,4,4,Central,IA, 403556,5-May
+2091,42,-95,4,4,Central,IA, 403556,5-May
+2092,42,-95,4,4,Central,IA, 403556,5-May
+2093,42,-95,4,4,Central,IA, 403556,5-May
+2094,42,-95,4,4,Central,IA, 403556,5-May
+2095,42,-95,4,4,Central,IA, 403556,5-May
+2096,42,-95,4,4,Central,IA, 403556,5-May
+2097,42,-95,4,4,Central,IA, 403556,5-May
+2098,42,-95,4,4,Central,IA, 403556,5-May
+2099,42,-95,4,4,Central,IA, 403556,5-May
+2100,42,-95,4,4,Central,IA, 403556,5-May
+2101,42,-95,4,4,Central,IA, 403556,5-May
+2102,42,-95,4,4,Central,IA, 403556,5-May
+2103,42,-95,4,4,Central,IA, 403557,5-May
+2104,42,-95,4,4,Central,IA, 403557,5-May
+2105,42,-95,4,4,Central,IA, 403557,5-May
+2106,42,-95,4,4,Central,IA, 403557,5-May
+2107,42,-95,4,4,Central,IA, 403557,5-May
+2108,42,-95,4,4,Central,IA, 403557,5-May
+2109,42,-95,4,4,Central,IA, 403557,5-May
+2110,42,-95,4,4,Central,IA, 403557,5-May
+2111,42,-95,4,4,Central,IA, 403557,5-May
+2112,42,-95,4,4,Central,IA, 403557,5-May
+2113,42,-95,4,4,Central,IA, 403557,5-May
+2114,42,-95,4,4,Central,IA, 403557,5-May
+2115,42,-95,4,4,Central,IA, 403557,5-May
+2116,42,-95,4,4,Central,IA, 403557,5-May
+2117,42,-95,4,4,Central,IA, 403557,5-May
+2118,42,-95,4,4,Central,IA, 403557,5-May
+2119,42,-95,4,4,Central,IA, 403557,5-May
+2120,42,-95,4,4,Central,IA, 403557,5-May
+2121,42,-95,4,4,Central,IA, 403557,5-May
+2122,42,-95,4,4,Central,IA, 403557,5-May
+2123,42,-95,4,4,Central,IA, 403557,5-May
+2124,42,-95,4,4,Central,IA, 403557,5-May
+2125,42,-95,4,4,Central,IA, 403557,5-May
+2126,42,-95,4,4,Central,IA, 403558,5-May
+2127,42,-95,4,4,Central,IA, 403558,5-May
+2128,42,-95,4,4,Central,IA, 403558,5-May
+2129,42,-95,4,4,Central,IA, 403558,5-May
+2130,42,-95,4,4,Central,IA, 403558,5-May
+2131,42,-95,4,4,Central,IA, 403558,5-May
+2132,42,-95,4,4,Central,IA, 403558,5-May
+2133,42,-95,4,4,Central,IA, 403558,5-May
+2134,42,-95,4,4,Central,IA, 403558,5-May
+2135,42,-95,4,4,Central,IA, 403558,5-May
+2136,42,-95,4,4,Central,IA, 403558,5-May
+2137,42,-95,4,4,Central,IA, 403558,5-May
+2138,42,-95,4,4,Central,IA, 403558,5-May
+2139,42,-95,4,4,Central,IA, 403558,5-May
+2140,42,-95,4,4,Central,IA, 403558,5-May
+2141,42,-95,4,4,Central,IA, 403559,5-May
+2142,42,-95,4,4,Central,IA, 403559,5-May
+2143,42,-95,4,4,Central,IA, 403559,5-May
+2144,42,-95,4,4,Central,IA, 403559,5-May
+2145,42,-95,4,4,Central,IA, 403559,5-May
+2146,42,-95,4,4,Central,IA, 403559,5-May
+2147,42,-95,4,4,Central,IA, 403559,5-May
+2148,42,-95,4,4,Central,IA, 403559,5-May
+2149,42,-95,4,4,Central,IA, 403559,5-May
+2150,42,-95,4,4,Central,IA, 403559,5-May
+2151,42,-95,4,4,Central,IA, 403559,5-May
+2152,42,-95,4,4,Central,IA, 403559,5-May
+2153,42,-95,4,4,Central,IA, 403559,5-May
+2154,42,-95,4,4,Central,IA, 403559,5-May
+2155,42,-95,4,4,Central,IA, 403560,5-May
+2156,42,-95,4,4,Central,IA, 403560,5-May
+2157,42,-95,4,4,Central,IA, 403560,5-May
+2158,42,-95,4,4,Central,IA, 403560,5-May
+2159,42,-95,4,4,Central,IA, 403560,5-May
+2160,42,-95,4,4,Central,IA, 403560,5-May
+2161,42,-95,4,4,Central,IA, 403560,5-May
+2162,42,-95,4,4,Central,IA, 403560,5-May
+2163,42,-95,4,4,Central,IA, 403560,5-May
+2164,42,-95,4,4,Central,IA, 403560,5-May
+2165,42,-95,4,4,Central,IA, 403561,5-May
+2166,42,-95,4,4,Central,IA, 403561,5-May
+2167,42,-95,4,4,Central,IA, 403561,5-May
+2168,42,-95,4,4,Central,IA, 403561,5-May
+2169,42,-95,4,4,Central,IA, 403561,5-May
+2170,42,-95,4,4,Central,IA, 403561,5-May
+2171,42,-95,4,4,Central,IA, 403561,5-May
+2172,42,-95,4,4,Central,IA, 403561,5-May
+2173,42,-95,4,4,Central,IA, 403561,5-May
+2174,42,-95,4,4,Central,IA, 403561,5-May
+2175,42,-95,4,4,Central,IA, 403561,5-May
+2176,42,-95,4,4,Central,IA, 403561,5-May
+2177,42,-95,4,4,Central,IA, 403561,5-May
+2178,42,-95,4,4,Central,IA, 403561,5-May
+2179,42,-95,4,4,Central,IA, 403561,5-May
+2180,42,-95,4,4,Central,IA, 403561,5-May
+2181,42,-95,4,4,Central,IA, 403561,5-May
+2182,42,-95,4,4,Central,IA, 403562,5-May
+2183,42,-95,4,4,Central,IA, 403562,5-May
+2184,42,-95,4,4,Central,IA, 403562,5-May
+2185,42,-95,4,4,Central,IA, 403562,5-May
+2186,42,-95,4,4,Central,IA, 403562,5-May
+2187,42,-95,4,4,Central,IA, 403562,5-May
+2188,42,-95,4,4,Central,IA, 403562,5-May
+2189,42,-95,4,4,Central,IA, 403562,5-May
+2190,42,-95,4,4,Central,IA, 403562,5-May
+2191,42,-95,4,4,Central,IA, 403562,5-May
+2192,42,-95,4,4,Central,IA, 403562,5-May
+2193,42,-95,4,4,Central,IA, 403562,5-May
+2194,42,-95,4,4,Central,IA, 403562,5-May
+2195,42,-95,4,4,Central,IA, 403562,5-May
+2196,42,-95,4,4,Central,IA, 403562,5-May
+2197,42,-95,4,4,Central,IA, 403562,5-May
+2198,42,-95,4,4,Central,IA, 403562,5-May
+2199,42,-95,4,4,Central,IA, 403562,5-May
+2200,42,-95,4,4,Central,IA, 403562,5-May
+2201,42,-95,4,4,Central,IA, 403562,5-May
+2202,42,-95,4,4,Central,IA, 403562,5-May
+2203,42,-95,4,4,Central,IA, 403562,5-May
+2204,42,-95,4,4,Central,IA, 403563,5-May
+2205,42,-95,4,4,Central,IA, 403563,5-May
+2206,42,-95,4,4,Central,IA, 403563,5-May
+2207,42,-95,4,4,Central,IA, 403563,5-May
+2208,42,-95,4,4,Central,IA, 403563,5-May
+2209,42,-95,4,4,Central,IA, 403563,5-May
+2210,42,-95,4,4,Central,IA, 403563,5-May
+2211,42,-95,4,4,Central,IA, 403563,5-May
+2212,42,-95,4,4,Central,IA, 403563,5-May
+2213,42,-95,4,4,Central,IA, 403563,5-May
+2214,42,-95,4,4,Central,IA, 403563,5-May
+2215,42,-95,4,4,Central,IA, 403563,5-May
+2216,42,-95,4,4,Central,IA, 403563,5-May
+2217,42,-95,4,4,Central,IA, 403563,5-May
+2218,42,-95,4,4,Central,IA, 403563,5-May
+2219,42,-95,4,4,Central,IA, 403563,5-May
+2220,42,-95,4,4,Central,IA, 403563,5-May
+2221,42,-95,4,4,Central,IA, 403563,5-May
+2222,42,-95,4,4,Central,IA, 403563,5-May
